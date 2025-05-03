@@ -1,16 +1,15 @@
 import time
-from datetime import datetime
 
 from selenium import webdriver
-from selenium.webdriver.edge.service import Service as EdgeService
-from selenium.webdriver.edge.options import Options as EdgeOptions
 from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.edge.options import Options as EdgeOptions
+from selenium.webdriver.edge.service import Service as EdgeService
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.ui import WebDriverWait
 from webdriver_manager.microsoft import EdgeChromiumDriverManager
 
-from actividades.actividad1.src.scrapers.base_scraper import BaseScraper, TIEMPO_ESPERA
 from actividades.actividad1.src.models.producto import Producto
+from actividades.actividad1.src.scrapers.base_scraper import BaseScraper, TIEMPO_ESPERA
 
 
 class SeleniumScraper(BaseScraper):

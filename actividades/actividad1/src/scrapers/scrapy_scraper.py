@@ -1,10 +1,9 @@
-from datetime import datetime
 import scrapy
 from scrapy.crawler import CrawlerProcess
 from scrapy.http import Response
 
-from actividades.actividad1.src.scrapers.base_scraper import BaseScraper
 from actividades.actividad1.src.models.producto import Producto
+from actividades.actividad1.src.scrapers.base_scraper import BaseScraper
 
 
 class MercadoLibreSpider(scrapy.Spider):

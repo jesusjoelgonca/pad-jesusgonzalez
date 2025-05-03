@@ -1,14 +1,14 @@
-import matplotlib.pyplot as plt
 import json
-import pandas as pd
 import os
-from pathlib import Path
 
+import matplotlib.pyplot as plt
+import pandas as pd
+
+from actividades.actividad1.src.models.producto import Producto
+from actividades.actividad1.src.scrapers.base_scraper import DATA_DIR
 from actividades.actividad1.src.scrapers.beautifulsoup_scraper import BeautifulSoupScraper
 from actividades.actividad1.src.scrapers.scrapy_scraper import ScrapyScraper
 from actividades.actividad1.src.scrapers.selenium_scraper import SeleniumScraper
-from actividades.actividad1.src.scrapers.base_scraper import DATA_DIR
-from actividades.actividad1.src.models.producto import Producto
 
 
 class AnalizadorMercadoLibre:
