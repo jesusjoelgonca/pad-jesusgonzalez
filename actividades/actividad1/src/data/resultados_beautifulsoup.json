@@ -1,0 +1,410 @@
+[
+    {
+        "titulo": "Celular Samsung Galaxy S24 Ultra 5g 256gb Lavanda",
+        "precio": "$6.899.920",
+        "link": null,
+        "imagen": "https://http2.mlstatic.com/D_Q_NP_2X_885634-MCO74062358181_012024-V.webp",
+        "método": "BeautifulSoup",
+        "timestamp": "2025-05-03T10:57:53.175104"
+    },
+    {
+        "titulo": "Samsung Galaxy S24 Ultra 5G Dual SIM 256 GB titanium black 12 GB RAM",
+        "precio": "$7.699.900",
+        "link": null,
+        "imagen": "https://http2.mlstatic.com/D_Q_NP_2X_731135-MLA79227832577_092024-V.webp",
+        "método": "BeautifulSoup",
+        "timestamp": "2025-05-03T10:57:53.175104"
+    },
+    {
+        "titulo": "Samsung Galaxy S24 Ultra 256gb 12gb Ram Titanium Black",
+        "precio": "$6.199.859",
+        "link": null,
+        "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "método": "BeautifulSoup",
+        "timestamp": "2025-05-03T10:57:53.175104"
+    },
+    {
+        "titulo": "Celular Samsung Galaxy S24 Ultra 5g 256gb Lavanda",
+        "precio": "$6.899.920",
+        "link": null,
+        "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "método": "BeautifulSoup",
+        "timestamp": "2025-05-03T10:57:53.176113"
+    },
+    {
+        "titulo": "Samsung Galaxy S24 Ultra 5g Dual Sim 256 Gb Titanium Gray",
+        "precio": "$3.679.000",
+        "link": null,
+        "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "método": "BeautifulSoup",
+        "timestamp": "2025-05-03T10:57:53.176113"
+    },
+    {
+        "titulo": "Samsung Galaxy S24 Ultra 256gb Titanium Black",
+        "precio": "$3.486.000",
+        "link": null,
+        "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "método": "BeautifulSoup",
+        "timestamp": "2025-05-03T10:57:53.176113"
+    },
+    {
+        "titulo": "Samsung Galaxy S24 Ultra 5g Sm-s928b/ds 12gb 256gb Dual Sim",
+        "precio": "$7.299.000",
+        "link": null,
+        "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "método": "BeautifulSoup",
+        "timestamp": "2025-05-03T10:57:53.177104"
+    },
+    {
+        "titulo": "Samsung Galaxy S24 Ultra 5g Sm-s928b/ds 12gb 512gb Dual Sim",
+        "precio": "$7.299.000",
+        "link": null,
+        "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "método": "BeautifulSoup",
+        "timestamp": "2025-05-03T10:57:53.177104"
+    },
+    {
+        "titulo": "Samsung Galaxy S24 Ultra 5G Dual SIM 512 GB titanium violet 12 GB RAM",
+        "precio": "$6.599.000",
+        "link": null,
+        "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "método": "BeautifulSoup",
+        "timestamp": "2025-05-03T10:57:53.177104"
+    },
+    {
+        "titulo": "Samsung Galaxy S24 Ultra 5G Dual SIM 512 GB titanium gray 12 GB RAM",
+        "precio": "$6.599.000",
+        "link": null,
+        "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "método": "BeautifulSoup",
+        "timestamp": "2025-05-03T10:57:53.178104"
+    },
+    {
+        "titulo": "Samsung Galaxy S24 Ultra 5g Dual Sim 512 Gb Titanium Gray",
+        "precio": "$4.059.000",
+        "link": null,
+        "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "método": "BeautifulSoup",
+        "timestamp": "2025-05-03T10:57:53.178104"
+    },
+    {
+        "titulo": "Samsung Galaxy S24 Ultra 5g Dual Sim 512 Gb Titanium Yellow",
+        "precio": "$4.059.000",
+        "link": null,
+        "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "método": "BeautifulSoup",
+        "timestamp": "2025-05-03T10:57:53.178104"
+    },
+    {
+        "titulo": "Samsung Galaxy S24 Ultra 5g Dual Sim 512 Gb Titanium Black",
+        "precio": "$4.059.000",
+        "link": null,
+        "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "método": "BeautifulSoup",
+        "timestamp": "2025-05-03T10:57:53.179114"
+    },
+    {
+        "titulo": "Samsung Galaxy S24 Ultra 5g Dual Sim 512 Gb Titanium Violet",
+        "precio": "$4.059.000",
+        "link": null,
+        "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "método": "BeautifulSoup",
+        "timestamp": "2025-05-03T10:57:53.179114"
+    },
+    {
+        "titulo": "Samsung Galaxy S24 Ultra 5g Dual Sim 256 Gb Titanium Violet",
+        "precio": "$3.679.000",
+        "link": null,
+        "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "método": "BeautifulSoup",
+        "timestamp": "2025-05-03T10:57:53.179114"
+    },
+    {
+        "titulo": "Samsung Galaxy S24 Ultra 5g Dual Sim 256 Gb Titanium Black",
+        "precio": "$3.679.000",
+        "link": null,
+        "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "método": "BeautifulSoup",
+        "timestamp": "2025-05-03T10:57:53.180178"
+    },
+    {
+        "titulo": "Samsung Galaxy S24 Ultra 5g Dual Sim 256 Gb Titanium Yellow",
+        "precio": "$3.679.000",
+        "link": null,
+        "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "método": "BeautifulSoup",
+        "timestamp": "2025-05-03T10:57:53.180178"
+    },
+    {
+        "titulo": "Samsung Galaxy S24 Ultra 256gb 12gb Ram + Buds Fe",
+        "precio": "$3.486.000",
+        "link": null,
+        "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "método": "BeautifulSoup",
+        "timestamp": "2025-05-03T10:57:53.180178"
+    },
+    {
+        "titulo": "Samsung Galaxy S24 Ultra Dual Sim 256 Gb Titanio Violeta",
+        "precio": "$3.299.000",
+        "link": null,
+        "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "método": "BeautifulSoup",
+        "timestamp": "2025-05-03T10:57:53.181210"
+    },
+    {
+        "titulo": "Celular Samsung S24 Ultra 256 Gb",
+        "precio": "$3.950.000",
+        "link": null,
+        "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "método": "BeautifulSoup",
+        "timestamp": "2025-05-03T10:57:53.181210"
+    },
+    {
+        "titulo": "Samsung Galaxy S24 Ultra 256gb 12gb Ram Titanium Gris",
+        "precio": "$3.599.000",
+        "link": null,
+        "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "método": "BeautifulSoup",
+        "timestamp": "2025-05-03T10:57:53.181210"
+    },
+    {
+        "titulo": "Samsung Galaxy S24 Ultra 5g 512 Gb",
+        "precio": "$3.950.000",
+        "link": null,
+        "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "método": "BeautifulSoup",
+        "timestamp": "2025-05-03T10:57:53.182219"
+    },
+    {
+        "titulo": "Samsung Galaxy S24 Ultra 5g Dual Sim 256gb Violeta 12gb Ram",
+        "precio": "$4.100.000",
+        "link": null,
+        "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "método": "BeautifulSoup",
+        "timestamp": "2025-05-03T10:57:53.182219"
+    },
+    {
+        "titulo": "Celular S24 Ultra",
+        "precio": "$4.000.000",
+        "link": null,
+        "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "método": "BeautifulSoup",
+        "timestamp": "2025-05-03T10:57:53.182219"
+    },
+    {
+        "titulo": "Samsung Galaxy S24 Ultra 256gb 12gb Ram Dual Sim Negro",
+        "precio": "$4.400.000",
+        "link": null,
+        "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "método": "BeautifulSoup",
+        "timestamp": "2025-05-03T10:57:53.183213"
+    },
+    {
+        "titulo": "Samsung Galaxy S24 Ultra",
+        "precio": "$3.600.000",
+        "link": null,
+        "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "método": "BeautifulSoup",
+        "timestamp": "2025-05-03T10:57:53.183213"
+    },
+    {
+        "titulo": "Samsung Galaxy S24 Ultra 5g Titanium 256gb",
+        "precio": "$3.620.000",
+        "link": null,
+        "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "método": "BeautifulSoup",
+        "timestamp": "2025-05-03T10:57:53.183213"
+    },
+    {
+        "titulo": "Samsung Galaxy S24 Ultra 5g 256 Gb Titanium  Gb Ram",
+        "precio": "$3.600.000",
+        "link": null,
+        "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "método": "BeautifulSoup",
+        "timestamp": "2025-05-03T10:57:53.183213"
+    },
+    {
+        "titulo": "Samsung Galaxy S24 Ultra 5g 256 Gb",
+        "precio": "$3.650.000",
+        "link": null,
+        "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "método": "BeautifulSoup",
+        "timestamp": "2025-05-03T10:57:53.184222"
+    },
+    {
+        "titulo": "Samsung Galaxy S24 Ultra",
+        "precio": "$3.650.000",
+        "link": null,
+        "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "método": "BeautifulSoup",
+        "timestamp": "2025-05-03T10:57:53.184222"
+    },
+    {
+        "titulo": "Samsung Galaxy S24 Ultra 256gb ( ¡rebajado! )",
+        "precio": "$3.400.000",
+        "link": null,
+        "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "método": "BeautifulSoup",
+        "timestamp": "2025-05-03T10:57:53.184222"
+    },
+    {
+        "titulo": "Celular S24 Ultra",
+        "precio": "$4.000.000",
+        "link": null,
+        "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "método": "BeautifulSoup",
+        "timestamp": "2025-05-03T10:57:53.185455"
+    },
+    {
+        "titulo": "Samsung Galaxy S24 Ultra 12gb 256gb Dual Sim Violeta",
+        "precio": "$3.890.000",
+        "link": null,
+        "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "método": "BeautifulSoup",
+        "timestamp": "2025-05-03T10:57:53.185455"
+    },
+    {
+        "titulo": "Samsung S24 Ultra 256gb 12gb",
+        "precio": "$3.600.000",
+        "link": null,
+        "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "método": "BeautifulSoup",
+        "timestamp": "2025-05-03T10:57:53.185455"
+    },
+    {
+        "titulo": "Samsung S24 Ultra Dual Sim 512gb 8gb Ram Con Smart Wacth 7",
+        "precio": "$4.000.000",
+        "link": null,
+        "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "método": "BeautifulSoup",
+        "timestamp": "2025-05-03T10:57:53.186471"
+    },
+    {
+        "titulo": "Samsung Galaxy S24 Ultra 5g 512 Gb Titanium Gray 12 Gb Ram",
+        "precio": "$4.250.000",
+        "link": null,
+        "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "método": "BeautifulSoup",
+        "timestamp": "2025-05-03T10:57:53.186471"
+    },
+    {
+        "titulo": "Samsung Galaxia S24 Ultra",
+        "precio": "$3.700.000",
+        "link": null,
+        "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "método": "BeautifulSoup",
+        "timestamp": "2025-05-03T10:57:53.186471"
+    },
+    {
+        "titulo": "Samsung Galaxy S24 Ultra",
+        "precio": "$4.000.000",
+        "link": null,
+        "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "método": "BeautifulSoup",
+        "timestamp": "2025-05-03T10:57:53.186471"
+    },
+    {
+        "titulo": "Samsung Galaxy S24 Ultra 256gb 12gb Ram Titanium Black",
+        "precio": "$3.800.000",
+        "link": null,
+        "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "método": "BeautifulSoup",
+        "timestamp": "2025-05-03T10:57:53.187489"
+    },
+    {
+        "titulo": "Samsung S24 Ultra Usado.",
+        "precio": "$3.000.000",
+        "link": null,
+        "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "método": "BeautifulSoup",
+        "timestamp": "2025-05-03T10:57:53.187489"
+    },
+    {
+        "titulo": "Samsung Galaxy S24 Ultra 256gb 12gb Ram",
+        "precio": "$3.500.000",
+        "link": null,
+        "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "método": "BeautifulSoup",
+        "timestamp": "2025-05-03T10:57:53.187489"
+    },
+    {
+        "titulo": "Celular Samsung S24 Ultra (dual Esim)",
+        "precio": "$3.700.000",
+        "link": null,
+        "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "método": "BeautifulSoup",
+        "timestamp": "2025-05-03T10:57:53.188489"
+    },
+    {
+        "titulo": "Samsung Galaxy S24 Ultra 5g Dual Sim 256gb 12gb Negro",
+        "precio": "$3.500.000",
+        "link": null,
+        "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "método": "BeautifulSoup",
+        "timestamp": "2025-05-03T10:57:53.188489"
+    },
+    {
+        "titulo": "Celular Galaxy S24 Ultra",
+        "precio": "$3.500.000",
+        "link": null,
+        "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "método": "BeautifulSoup",
+        "timestamp": "2025-05-03T10:57:53.188489"
+    },
+    {
+        "titulo": "Celular Samsung S24 Ultra 256 Gb",
+        "precio": "$4.000.000",
+        "link": null,
+        "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "método": "BeautifulSoup",
+        "timestamp": "2025-05-03T10:57:53.189499"
+    },
+    {
+        "titulo": "Samsung Galaxy S24 Ultra Galaxy Ai 6.8 pulgadas 12 GB RAM 256 GB Titanio Violeta",
+        "precio": "$4.200.000",
+        "link": null,
+        "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "método": "BeautifulSoup",
+        "timestamp": "2025-05-03T10:57:53.189499"
+    },
+    {
+        "titulo": "Celular Samsung S24 Ultra (dual Esim)",
+        "precio": "$6.700.000",
+        "link": null,
+        "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "método": "BeautifulSoup",
+        "timestamp": "2025-05-03T10:57:53.189499"
+    },
+    {
+        "titulo": "Samsung Galaxy S24 Ultra 5G Dual SIM 512 GB titanium black 12 GB RAM - Excelente (Reacondicionado)",
+        "precio": "$4.000.000",
+        "link": null,
+        "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "método": "BeautifulSoup",
+        "timestamp": "2025-05-03T10:57:53.190498"
+    },
+    {
+        "titulo": "Samsung Galaxy S24 Ultra 5G Dual SIM 1 TB titanium green 12 GB RAM",
+        "precio": "$7.700.000",
+        "link": null,
+        "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "método": "BeautifulSoup",
+        "timestamp": "2025-05-03T10:57:53.190498"
+    },
+    {
+        "titulo": "Galaxy S24 Ultra 12gb 256gb Titanium Gray",
+        "precio": "$6.499.900",
+        "link": null,
+        "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "método": "BeautifulSoup",
+        "timestamp": "2025-05-03T10:57:53.190498"
+    },
+    {
+        "titulo": "Samsung S24 Ultra 1tr Color Beige",
+        "precio": "$2.500.000",
+        "link": null,
+        "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "método": "BeautifulSoup",
+        "timestamp": "2025-05-03T10:57:53.191489"
+    }
+]
