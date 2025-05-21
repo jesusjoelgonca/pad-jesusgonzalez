@@ -8,8 +8,8 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 from webdriver_manager.microsoft import EdgeChromiumDriverManager
 
-from actividades.actividad1.src.models.producto import Producto
-from actividades.actividad1.src.scrapers.base_scraper import BaseScraper, TIEMPO_ESPERA
+from models.producto import Producto
+from .base_scraper import BaseScraper, TIEMPO_ESPERA
 
 
 class SeleniumScraper(BaseScraper):

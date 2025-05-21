@@ -2,8 +2,8 @@ from datetime import datetime
 import requests
 from bs4 import BeautifulSoup
 
-from actividades.actividad1.src.scrapers.base_scraper import BaseScraper
-from actividades.actividad1.src.models.producto import Producto
+from .base_scraper import BaseScraper
+from models.producto import Producto
 
 
 class BeautifulSoupScraper(BaseScraper):

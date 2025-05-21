@@ -4,11 +4,11 @@ import os
 import matplotlib.pyplot as plt
 import pandas as pd
 
-from actividades.actividad1.src.models.producto import Producto
-from actividades.actividad1.src.scrapers.base_scraper import DATA_DIR
-from actividades.actividad1.src.scrapers.beautifulsoup_scraper import BeautifulSoupScraper
-from actividades.actividad1.src.scrapers.scrapy_scraper import ScrapyScraper
-from actividades.actividad1.src.scrapers.selenium_scraper import SeleniumScraper
+from models.producto import Producto
+from scrapers.base_scraper import DATA_DIR
+from scrapers.beautifulsoup_scraper import BeautifulSoupScraper
+from scrapers.scrapy_scraper import ScrapyScraper
+from scrapers.selenium_scraper import SeleniumScraper
 
 
 class AnalizadorMercadoLibre:
