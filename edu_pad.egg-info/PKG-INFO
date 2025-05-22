@@ -1,9 +1,9 @@
 Metadata-Version: 2.4
 Name: edu_pad
 Version: 0.0.1
-Summary: ETL para análisis de datos del dólar
+Summary: ETL para análisis de celular samsung en mercadolibre
 Author: Jesus Gonzalez
-Author-email: 
+Author-email: jesus.gonzalezc@est.iudigital.edu.co
 Requires-Dist: attrs==25.3.0
 Requires-Dist: Automat==25.4.16
 Requires-Dist: beautifulsoup4==4.13.4
@@ -72,5 +72,6 @@ Requires-Dist: wsproto==1.2.0
 Requires-Dist: zipp==3.21.0
 Requires-Dist: zope.interface==7.2
 Dynamic: author
+Dynamic: author-email
 Dynamic: requires-dist
 Dynamic: summary
