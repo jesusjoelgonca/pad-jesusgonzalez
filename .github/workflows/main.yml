@@ -34,5 +34,5 @@ jobs:
         with:
           commit_message: Genera archivo csv de las web
           commit_user_name: Jesus Gonzalez [GitHub Actions]
-          commit_user_email: j.gonzalez@iudigital.edu.co
-          commit_author: Jesus Gonzalez <j.gonzalez@iudigital.edu.co>
+          commit_user_email: jesus.gonzalezc@est.iudigital.edu.co
+          commit_author: Jesus Gonzalez <jesus.gonzalezc@est.iudigital.edu.co>
