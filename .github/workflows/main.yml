@@ -25,11 +25,11 @@ jobs:
           docker run --rm \
             -v "${{ github.workspace }}/actividades/actividad1/static/csv":/app/actividades/actividad1/static/csv \
             -v "${{ github.workspace }}/actividades/actividad1/static/db":/app/actividades/actividad1/static/db \
-            contenedor python actividades/actividad1/src/main_extracto.py
+            contenedor actividades.actividad1.src.main_extracto
 
       - name: Paso 5 - Ejecutar ingesta
         run: |
           docker run --rm \
             -v "${{ github.workspace }}/actividades/actividad1/static/csv":/app/actividades/actividad1/static/csv \
             -v "${{ github.workspace }}/actividades/actividad1/static/db":/app/actividades/actividad1/static/db \
-            contenedor python actividades/actividad1/src/main_ingesta.py
+            contenedor actividades.actividad1.src.main_ingesta
