@@ -164,3 +164,9 @@ class AnalizadorMercadoLibre:
             plt.savefig(os.path.join(DATA_DIR, 'productos_por_color.png'))
 
         print("\nGráficos guardados en la carpeta 'data'")
+
+    def obtener_dataframe(self):
+        """
+        Devuelve los datos analizados como un DataFrame de pandas.
+        """
+        return pd.DataFrame(self.resultados_combinados)
