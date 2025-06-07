@@ -1,4 +1,4 @@
-from database import DataBase
+from database.database import DataBase
 import pandas as pd
 
 def main():
