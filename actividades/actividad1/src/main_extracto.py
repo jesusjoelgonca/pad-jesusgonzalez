@@ -1,5 +1,6 @@
 from scrapers.base_scraper import URL_MERCADOLIBRE
 from utils.helpers import AnalizadorMercadoLibre
+import os
 
 def main():
     analizador = AnalizadorMercadoLibre(URL_MERCADOLIBRE)
