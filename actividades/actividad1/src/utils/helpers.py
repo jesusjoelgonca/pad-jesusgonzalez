@@ -170,3 +170,25 @@ class AnalizadorMercadoLibre:
         Devuelve los datos analizados como un DataFrame de pandas.
         """
         return pd.DataFrame(self.resultados_combinados)
+    
+    def mostrar_preview_datos(self, n=10):
+        """
+        Muestra una vista previa de los primeros n registros de datos.
+        
+        Args:
+            n (int): Número de registros a mostrar. Por defecto 10.
+        """
+        if not self.resultados_combinados:
+            print("No hay resultados para mostrar.")
+            return None
+            
+        df = pd.DataFrame(self.resultados_combinados)
+        
+        print("*******************************************************************")
+        print("Datos Obtenidos")
+        print("*******************************************************************")
+        print(df.head(n)) 
+        print("\nTotal de registros:", len(df))
+        print("*******************************************************************")
+        
+        return df
