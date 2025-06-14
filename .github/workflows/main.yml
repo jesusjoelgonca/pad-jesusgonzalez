@@ -3,6 +3,7 @@ name: Pipeline de Extracción e Ingesta MercadoLibre
 on:
   push:
     branches: [ main ]
+  workflow_dispatch:    
 
 jobs:
   build:
@@ -33,3 +34,25 @@ jobs:
             -v "${{ github.workspace }}/actividades/actividad1/static/csv":/app/actividades/actividad1/static/csv \
             -v "${{ github.workspace }}/actividades/actividad1/static/db":/app/actividades/actividad1/static/db \
             contenedor actividades.actividad1.src.main_ingesta
+
+      - name: Paso 6 - Subir archivos CSV como artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: datos-mercadolibre
+          path: |
+            actividades/actividad1/static/csv/*.csv
+            actividades/actividad1/static/db/*.db
+            actividades/actividad1/data/*.json
+            actividades/actividad1/data/*.png
+          retention-days: 30
+
+      - name: Paso 7 - Commit archivos generados
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add actividades/actividad1/static/csv/*.csv || true
+          git add actividades/actividad1/static/db/*.db || true
+          git add actividades/actividad1/data/*.json || true
+          git add actividades/actividad1/data/*.png || true
+          git diff --staged --quiet || git commit -m "Auto: Actualizar datos extraídos $(date '+%Y-%m-%d %H:%M:%S')"
+          git push || echo "No hay cambios que commitear"
