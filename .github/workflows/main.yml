@@ -76,7 +76,7 @@ jobs:
       - name: Paso 9 - Información de Streamlit Cloud
         run: |
           echo "🚀 Streamlit Cloud se actualizará automáticamente"
-          echo "🔗 URL de tu app: https://share.streamlit.io"
+          echo "🔗 URL de tu app: https://pad-jesusgonzalez-jmgtlesb8q9bhndp3iuvps.streamlit.app"
           echo "📝 Asegúrate de que tu app esté configurada con:"
           echo "   - Repository: ${{ github.repository }}"
           echo "   - Branch: main"
