@@ -1,1586 +1,1586 @@
 [
     {
-        "id": "Samsung_Ga_12GB_256GB",
-        "titulo": "Samsung Galaxy S24 Ultra 5G Dual SIM 256 GB titanium black 12 GB RAM",
-        "precio": "$5.422.500",
-        "link": "https://www.mercadolibre.com.co/samsung-galaxy-s24-ultra-5g-dual-sim-256-gb-titanium-black-12-gb-ram/p/MCO31493325#polycard_client=search-nordic&searchVariation=MCO31493325&position=8&search_layout=stack&type=product&tracking_id=d6a15808-41a9-4961-9866-a2fc9fe457cd&wid=MCO2893146594&sid=search",
-        "imagen": "https://http2.mlstatic.com/D_Q_NP_2X_731135-MLA79227832577_092024-V.webp",
-        "método": "BeautifulSoup",
-        "capacidad": "256GB",
-        "ram": "12GB",
-        "color": "Negro",
-        "timestamp": "2025-06-14T23:28:21.588577"
-    },
-    {
         "id": "Samsung_Ga_12GB_512GB",
         "titulo": "Samsung Galaxy S24 Ultra 5G Dual SIM 512 GB titanium gray 12 GB RAM",
         "precio": "$6.999.900",
-        "link": "https://www.mercadolibre.com.co/samsung-galaxy-s24-ultra-5g-dual-sim-512-gb-titanium-gray-12-gb-ram/p/MCO29893931#polycard_client=search-nordic&searchVariation=MCO29893931&position=11&search_layout=stack&type=product&tracking_id=d6a15808-41a9-4961-9866-a2fc9fe457cd&wid=MCO1452157273&sid=search",
+        "link": "https://www.mercadolibre.com.co/samsung-galaxy-s24-ultra-5g-dual-sim-512-gb-titanium-gray-12-gb-ram/p/MCO29893931#polycard_client=search-nordic&searchVariation=MCO29893931&position=4&search_layout=stack&type=product&tracking_id=dabc737d-cb5e-42cf-be8d-22a62f110fcb&wid=MCO1452157273&sid=search",
         "imagen": "https://http2.mlstatic.com/D_Q_NP_2X_937455-MLA74439150067_022024-V.webp",
         "método": "BeautifulSoup",
         "capacidad": "512GB",
         "ram": "12GB",
         "color": "Gris",
-        "timestamp": "2025-06-14T23:28:21.589106"
+        "timestamp": "2025-06-15T00:35:56.812167"
     },
     {
         "id": "Samsung_Ga_12GB_512GB",
         "titulo": "Samsung Galaxy S24 Ultra 5G Dual SIM 512 GB titanium violet 12 GB RAM",
         "precio": "$4.095.900",
-        "link": "https://www.mercadolibre.com.co/samsung-galaxy-s24-ultra-5g-dual-sim-512-gb-titanium-violet-12-gb-ram/p/MCO29893911#polycard_client=search-nordic&searchVariation=MCO29893911&position=9&search_layout=stack&type=product&tracking_id=d6a15808-41a9-4961-9866-a2fc9fe457cd&wid=MCO2887633424&sid=search",
+        "link": "https://www.mercadolibre.com.co/samsung-galaxy-s24-ultra-5g-dual-sim-512-gb-titanium-violet-12-gb-ram/p/MCO29893911#polycard_client=search-nordic&searchVariation=MCO29893911&position=7&search_layout=stack&type=product&tracking_id=dabc737d-cb5e-42cf-be8d-22a62f110fcb&wid=MCO2887633424&sid=search",
         "imagen": "https://http2.mlstatic.com/D_Q_NP_2X_876756-MLA74196675597_012024-V.webp",
         "método": "BeautifulSoup",
         "capacidad": "512GB",
         "ram": "12GB",
         "color": "Violeta",
-        "timestamp": "2025-06-14T23:28:21.589681"
+        "timestamp": "2025-06-15T00:35:56.812448"
+    },
+    {
+        "id": "Samsung_Ga_12GB_256GB",
+        "titulo": "Samsung Galaxy S24 Ultra 5G Dual SIM 256 GB titanium black 12 GB RAM",
+        "precio": "$5.422.500",
+        "link": "https://www.mercadolibre.com.co/samsung-galaxy-s24-ultra-5g-dual-sim-256-gb-titanium-black-12-gb-ram/p/MCO31493325#polycard_client=search-nordic&searchVariation=MCO31493325&position=6&search_layout=stack&type=product&tracking_id=dabc737d-cb5e-42cf-be8d-22a62f110fcb&wid=MCO2893146594&sid=search",
+        "imagen": "https://http2.mlstatic.com/D_Q_NP_2X_731135-MLA79227832577_092024-V.webp",
+        "método": "BeautifulSoup",
+        "capacidad": "256GB",
+        "ram": "12GB",
+        "color": "Negro",
+        "timestamp": "2025-06-15T00:35:56.812741"
     },
     {
         "id": "Samsung_Ga_8GB_256GB",
         "titulo": "Samsung Galaxy S24 Ultra 5G Dual SIM 256 GB titanium gray 8 GB RAM",
         "precio": "$6.589.000",
-        "link": "https://www.mercadolibre.com.co/samsung-galaxy-s24-ultra-5g-dual-sim-256-gb-titanium-gray-8-gb-ram/p/MCO29893924#polycard_client=search-nordic&searchVariation=MCO29893924&position=5&search_layout=stack&type=product&tracking_id=d6a15808-41a9-4961-9866-a2fc9fe457cd&wid=MCO1452118841&sid=search",
+        "link": "https://www.mercadolibre.com.co/samsung-galaxy-s24-ultra-5g-dual-sim-256-gb-titanium-gray-8-gb-ram/p/MCO29893924#polycard_client=search-nordic&searchVariation=MCO29893924&position=10&search_layout=stack&type=product&tracking_id=dabc737d-cb5e-42cf-be8d-22a62f110fcb&wid=MCO1452118841&sid=search",
         "imagen": "https://http2.mlstatic.com/D_Q_NP_2X_937455-MLA74439150067_022024-V.webp",
         "método": "BeautifulSoup",
         "capacidad": "256GB",
         "ram": "8GB",
         "color": "Gris",
-        "timestamp": "2025-06-14T23:28:21.590175"
+        "timestamp": "2025-06-15T00:35:56.813018"
     },
     {
         "id": "Celular_Sa_N/A_256GB",
         "titulo": "Celular Samsung Galaxy S24 Ultra 5g 256gb Lavanda",
         "precio": "$6.899.920",
-        "link": "https://articulo.mercadolibre.com.co/MCO-1382435825-celular-samsung-galaxy-s24-ultra-5g-256gb-lavanda-_JM?searchVariation=179710940278#polycard_client=search-nordic&searchVariation=179710940278&position=7&search_layout=stack&type=item&tracking_id=d6a15808-41a9-4961-9866-a2fc9fe457cd",
+        "link": "https://articulo.mercadolibre.com.co/MCO-1382435825-celular-samsung-galaxy-s24-ultra-5g-256gb-lavanda-_JM?searchVariation=179710940278#polycard_client=search-nordic&searchVariation=179710940278&position=7&search_layout=stack&type=item&tracking_id=dabc737d-cb5e-42cf-be8d-22a62f110fcb",
         "imagen": "https://http2.mlstatic.com/D_Q_NP_2X_885634-MCO74062358181_012024-V.webp",
         "método": "BeautifulSoup",
         "capacidad": "256GB",
         "ram": null,
         "color": "Lavanda",
-        "timestamp": "2025-06-14T23:28:21.590667"
+        "timestamp": "2025-06-15T00:35:56.813277"
     },
     {
         "id": "Samsung_Ga_N/A_256GB",
         "titulo": "Samsung Galaxy S24 Ultra Titanium Violet 256 Gb Grado A",
         "precio": "$3.489.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2890387536-samsung-galaxy-s24-ultra-titanium-violet-256-gb-grado-a-_JM?searchVariation=183850943012#polycard_client=search-nordic&searchVariation=183850943012&position=8&search_layout=stack&type=item&tracking_id=d6a15808-41a9-4961-9866-a2fc9fe457cd",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2890387536-samsung-galaxy-s24-ultra-titanium-violet-256-gb-grado-a-_JM?searchVariation=183850943012#polycard_client=search-nordic&searchVariation=183850943012&position=8&search_layout=stack&type=item&tracking_id=dabc737d-cb5e-42cf-be8d-22a62f110fcb",
         "imagen": "https://http2.mlstatic.com/D_Q_NP_2X_892260-MCO85852037253_062025-V.webp",
         "método": "BeautifulSoup",
         "capacidad": "256GB",
         "ram": null,
         "color": "Violeta",
-        "timestamp": "2025-06-14T23:28:21.591157"
+        "timestamp": "2025-06-15T00:35:56.813510"
     },
     {
         "id": "Samsung_Ga_N/A_256GB",
         "titulo": "Samsung Galaxy S24 Ultra 5g Dual Sim 256 Gb Titanium Black",
         "precio": "$3.719.900",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2899810268-samsung-galaxy-s24-ultra-5g-dual-sim-256-gb-titanium-black-_JM?searchVariation=188397667183#polycard_client=search-nordic&searchVariation=188397667183&position=9&search_layout=stack&type=item&tracking_id=d6a15808-41a9-4961-9866-a2fc9fe457cd",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2899810268-samsung-galaxy-s24-ultra-5g-dual-sim-256-gb-titanium-black-_JM?searchVariation=188397667183#polycard_client=search-nordic&searchVariation=188397667183&position=9&search_layout=stack&type=item&tracking_id=dabc737d-cb5e-42cf-be8d-22a62f110fcb",
         "imagen": "https://http2.mlstatic.com/D_Q_NP_2X_810853-MCO86093566053_062025-V.webp",
         "método": "BeautifulSoup",
         "capacidad": "256GB",
         "ram": null,
         "color": "Negro",
-        "timestamp": "2025-06-14T23:28:21.591599"
+        "timestamp": "2025-06-15T00:35:56.813737"
     },
     {
         "id": "Samsung_Ga_12GB_1TB",
         "titulo": "Samsung Galaxy S24 Ultra S928b Dual Sim 12gb Ram 1tb 5g Cáma",
         "precio": "$8.539.560",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2889166348-samsung-galaxy-s24-ultra-s928b-dual-sim-12gb-ram-1tb-5g-cama-_JM?searchVariation=183834611920#polycard_client=search-nordic&searchVariation=183834611920&position=10&search_layout=stack&type=item&tracking_id=d6a15808-41a9-4961-9866-a2fc9fe457cd",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2889166348-samsung-galaxy-s24-ultra-s928b-dual-sim-12gb-ram-1tb-5g-cama-_JM?searchVariation=183834611920#polycard_client=search-nordic&searchVariation=183834611920&position=10&search_layout=stack&type=item&tracking_id=dabc737d-cb5e-42cf-be8d-22a62f110fcb",
         "imagen": "https://http2.mlstatic.com/D_Q_NP_2X_934362-MCO85450169724_062025-V.webp",
         "método": "BeautifulSoup",
         "capacidad": "1TB",
         "ram": "12GB",
         "color": null,
-        "timestamp": "2025-06-14T23:28:21.592106"
+        "timestamp": "2025-06-15T00:35:56.813973"
     },
     {
         "id": "Samsung_Ga_12GB_256GB",
         "titulo": "Samsung Galaxy S24 Ultra S928b Dual Sim 12gb Ram 256gb 5g Cá",
         "precio": "$4.829.760",
-        "link": "https://articulo.mercadolibre.com.co/MCO-1597155777-samsung-galaxy-s24-ultra-s928b-dual-sim-12gb-ram-256gb-5g-ca-_JM?searchVariation=183834687420#polycard_client=search-nordic&searchVariation=183834687420&position=11&search_layout=stack&type=item&tracking_id=d6a15808-41a9-4961-9866-a2fc9fe457cd",
+        "link": "https://articulo.mercadolibre.com.co/MCO-1597155777-samsung-galaxy-s24-ultra-s928b-dual-sim-12gb-ram-256gb-5g-ca-_JM?searchVariation=183834687420#polycard_client=search-nordic&searchVariation=183834687420&position=11&search_layout=stack&type=item&tracking_id=dabc737d-cb5e-42cf-be8d-22a62f110fcb",
         "imagen": "https://http2.mlstatic.com/D_Q_NP_2X_759353-MCO85450169856_062025-V.webp",
         "método": "BeautifulSoup",
         "capacidad": "256GB",
         "ram": "12GB",
         "color": null,
-        "timestamp": "2025-06-14T23:28:21.592972"
+        "timestamp": "2025-06-15T00:35:56.814232"
     },
     {
         "id": "Samsung_Ga_12GB_N/A",
         "titulo": "Samsung Galaxy S24 Ultra S928b Smartphone Doble Sim 12gb Ram",
         "precio": "$4.829.760",
-        "link": "https://articulo.mercadolibre.com.co/MCO-1597155779-samsung-galaxy-s24-ultra-s928b-smartphone-doble-sim-12gb-ram-_JM?searchVariation=183834687524#polycard_client=search-nordic&searchVariation=183834687524&position=12&search_layout=stack&type=item&tracking_id=d6a15808-41a9-4961-9866-a2fc9fe457cd",
+        "link": "https://articulo.mercadolibre.com.co/MCO-1597155779-samsung-galaxy-s24-ultra-s928b-smartphone-doble-sim-12gb-ram-_JM?searchVariation=183834687524#polycard_client=search-nordic&searchVariation=183834687524&position=12&search_layout=stack&type=item&tracking_id=dabc737d-cb5e-42cf-be8d-22a62f110fcb",
         "imagen": "https://http2.mlstatic.com/D_Q_NP_2X_839114-MCO85450164338_062025-V.webp",
         "método": "BeautifulSoup",
         "capacidad": null,
         "ram": "12GB",
         "color": null,
-        "timestamp": "2025-06-14T23:28:21.593647"
+        "timestamp": "2025-06-15T00:35:56.814457"
     },
     {
         "id": "Samsung_Ga_N/A_256GB",
         "titulo": "Samsung Galaxy S24 Ultra 5g Dual Sim 256 Gb Titanium Violet",
         "precio": "$3.719.900",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2899628170-samsung-galaxy-s24-ultra-5g-dual-sim-256-gb-titanium-violet-_JM?searchVariation=188397487375#polycard_client=search-nordic&searchVariation=188397487375&position=13&search_layout=stack&type=item&tracking_id=d6a15808-41a9-4961-9866-a2fc9fe457cd",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2899628170-samsung-galaxy-s24-ultra-5g-dual-sim-256-gb-titanium-violet-_JM?searchVariation=188397487375#polycard_client=search-nordic&searchVariation=188397487375&position=13&search_layout=stack&type=item&tracking_id=dabc737d-cb5e-42cf-be8d-22a62f110fcb",
         "imagen": "https://http2.mlstatic.com/D_Q_NP_2X_898289-MCO86093605333_062025-V.webp",
         "método": "BeautifulSoup",
         "capacidad": "256GB",
         "ram": null,
         "color": "Violeta",
-        "timestamp": "2025-06-14T23:28:21.594593"
+        "timestamp": "2025-06-15T00:35:56.814679"
     },
     {
         "id": "Samsung_Ga_N/A_256GB",
         "titulo": "Samsung Galaxy S24 Ultra 5g Sm-s928b/ds 12gb 256gb Dual Sim",
         "precio": "$7.299.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-1384858223-samsung-galaxy-s24-ultra-5g-sm-s928bds-12gb-256gb-dual-sim-_JM?searchVariation=181562640073#polycard_client=search-nordic&searchVariation=181562640073&position=14&search_layout=stack&type=item&tracking_id=d6a15808-41a9-4961-9866-a2fc9fe457cd",
+        "link": "https://articulo.mercadolibre.com.co/MCO-1384858223-samsung-galaxy-s24-ultra-5g-sm-s928bds-12gb-256gb-dual-sim-_JM?searchVariation=181562640073#polycard_client=search-nordic&searchVariation=181562640073&position=14&search_layout=stack&type=item&tracking_id=dabc737d-cb5e-42cf-be8d-22a62f110fcb",
         "imagen": "https://http2.mlstatic.com/D_Q_NP_2X_662360-MCO80427410726_112024-V.webp",
         "método": "BeautifulSoup",
         "capacidad": "256GB",
         "ram": null,
         "color": null,
-        "timestamp": "2025-06-14T23:28:21.594941"
+        "timestamp": "2025-06-15T00:35:56.814908"
     },
     {
         "id": "Samsung_Ga_N/A_512GB",
         "titulo": "Samsung Galaxy S24 Ultra 5g Sm-s928b/ds 12gb 512gb Dual Sim",
         "precio": "$7.299.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-1384872305-samsung-galaxy-s24-ultra-5g-sm-s928bds-12gb-512gb-dual-sim-_JM?searchVariation=179762538852#polycard_client=search-nordic&searchVariation=179762538852&position=15&search_layout=stack&type=item&tracking_id=d6a15808-41a9-4961-9866-a2fc9fe457cd",
+        "link": "https://articulo.mercadolibre.com.co/MCO-1384872305-samsung-galaxy-s24-ultra-5g-sm-s928bds-12gb-512gb-dual-sim-_JM?searchVariation=179762538852#polycard_client=search-nordic&searchVariation=179762538852&position=15&search_layout=stack&type=item&tracking_id=dabc737d-cb5e-42cf-be8d-22a62f110fcb",
         "imagen": "https://http2.mlstatic.com/D_Q_NP_2X_713245-MCO74093336482_012024-V.webp",
         "método": "BeautifulSoup",
         "capacidad": "512GB",
         "ram": null,
         "color": null,
-        "timestamp": "2025-06-14T23:28:21.595286"
+        "timestamp": "2025-06-15T00:35:56.815159"
     },
     {
         "id": "Samsung_Ga_N/A_512GB",
         "titulo": "Samsung Galaxy S24 Ultra 5g Dual Sim 512 Gb Titanium Gray",
         "precio": "$3.929.900",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2899979188-samsung-galaxy-s24-ultra-5g-dual-sim-512-gb-titanium-gray-_JM?searchVariation=188397641035#polycard_client=search-nordic&searchVariation=188397641035&position=16&search_layout=stack&type=item&tracking_id=d6a15808-41a9-4961-9866-a2fc9fe457cd",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2899979188-samsung-galaxy-s24-ultra-5g-dual-sim-512-gb-titanium-gray-_JM?searchVariation=188397641035#polycard_client=search-nordic&searchVariation=188397641035&position=16&search_layout=stack&type=item&tracking_id=dabc737d-cb5e-42cf-be8d-22a62f110fcb",
         "imagen": "https://http2.mlstatic.com/D_Q_NP_2X_957231-MCO86092772037_062025-V.webp",
         "método": "BeautifulSoup",
         "capacidad": "512GB",
         "ram": null,
         "color": "Gris",
-        "timestamp": "2025-06-14T23:28:21.595637"
+        "timestamp": "2025-06-15T00:35:56.815382"
     },
     {
         "id": "Samsung_Ga_N/A_256GB",
         "titulo": "Samsung Galaxy S24 Ultra 5g Dual Sim 256 Gb Titanium Gray",
         "precio": "$3.719.900",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2900108092-samsung-galaxy-s24-ultra-5g-dual-sim-256-gb-titanium-gray-_JM?searchVariation=188393163473#polycard_client=search-nordic&searchVariation=188393163473&position=17&search_layout=stack&type=item&tracking_id=d6a15808-41a9-4961-9866-a2fc9fe457cd",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2900108092-samsung-galaxy-s24-ultra-5g-dual-sim-256-gb-titanium-gray-_JM?searchVariation=188393163473#polycard_client=search-nordic&searchVariation=188393163473&position=17&search_layout=stack&type=item&tracking_id=dabc737d-cb5e-42cf-be8d-22a62f110fcb",
         "imagen": "https://http2.mlstatic.com/D_Q_NP_2X_983761-MCO86092801675_062025-V.webp",
         "método": "BeautifulSoup",
         "capacidad": "256GB",
         "ram": null,
         "color": "Gris",
-        "timestamp": "2025-06-14T23:28:21.596087"
+        "timestamp": "2025-06-15T00:35:56.815603"
     },
     {
         "id": "Samsung_Ga_N/A_256GB",
         "titulo": "Samsung Galaxy S24 Ultra 5g Dual Sim 256 Gb Titanium Yellow",
         "precio": "$3.719.900",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2900498024-samsung-galaxy-s24-ultra-5g-dual-sim-256-gb-titanium-yellow-_JM?searchVariation=188393398619#polycard_client=search-nordic&searchVariation=188393398619&position=18&search_layout=stack&type=item&tracking_id=d6a15808-41a9-4961-9866-a2fc9fe457cd",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2900498024-samsung-galaxy-s24-ultra-5g-dual-sim-256-gb-titanium-yellow-_JM?searchVariation=188393398619#polycard_client=search-nordic&searchVariation=188393398619&position=18&search_layout=stack&type=item&tracking_id=dabc737d-cb5e-42cf-be8d-22a62f110fcb",
         "imagen": "https://http2.mlstatic.com/D_Q_NP_2X_701924-MCO86092812077_062025-V.webp",
         "método": "BeautifulSoup",
         "capacidad": "256GB",
         "ram": null,
         "color": "Amarillo",
-        "timestamp": "2025-06-14T23:28:21.596601"
+        "timestamp": "2025-06-15T00:35:56.815821"
     },
     {
         "id": "Samsung_Ga_N/A_512GB",
         "titulo": "Samsung Galaxy S24 Ultra 5g Dual Sim 512 Gb Titanium Yellow",
         "precio": "$3.929.900",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2899953106-samsung-galaxy-s24-ultra-5g-dual-sim-512-gb-titanium-yellow-_JM?searchVariation=188397474029#polycard_client=search-nordic&searchVariation=188397474029&position=19&search_layout=stack&type=item&tracking_id=d6a15808-41a9-4961-9866-a2fc9fe457cd",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2899953106-samsung-galaxy-s24-ultra-5g-dual-sim-512-gb-titanium-yellow-_JM?searchVariation=188397474029#polycard_client=search-nordic&searchVariation=188397474029&position=19&search_layout=stack&type=item&tracking_id=dabc737d-cb5e-42cf-be8d-22a62f110fcb",
         "imagen": "https://http2.mlstatic.com/D_Q_NP_2X_817344-MCO86093258265_062025-V.webp",
         "método": "BeautifulSoup",
         "capacidad": "512GB",
         "ram": null,
         "color": "Amarillo",
-        "timestamp": "2025-06-14T23:28:21.597136"
+        "timestamp": "2025-06-15T00:35:56.816056"
     },
     {
         "id": "Samsung_Ga_N/A_512GB",
         "titulo": "Samsung Galaxy S24 Ultra 5g Dual Sim 512 Gb Titanium Black",
         "precio": "$3.929.900",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2900498030-samsung-galaxy-s24-ultra-5g-dual-sim-512-gb-titanium-black-_JM?searchVariation=188393398623#polycard_client=search-nordic&searchVariation=188393398623&position=20&search_layout=stack&type=item&tracking_id=d6a15808-41a9-4961-9866-a2fc9fe457cd",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2900498030-samsung-galaxy-s24-ultra-5g-dual-sim-512-gb-titanium-black-_JM?searchVariation=188393398623#polycard_client=search-nordic&searchVariation=188393398623&position=20&search_layout=stack&type=item&tracking_id=dabc737d-cb5e-42cf-be8d-22a62f110fcb",
         "imagen": "https://http2.mlstatic.com/D_Q_NP_2X_910041-MCO86092584355_062025-V.webp",
         "método": "BeautifulSoup",
         "capacidad": "512GB",
         "ram": null,
         "color": "Negro",
-        "timestamp": "2025-06-14T23:28:21.597640"
+        "timestamp": "2025-06-15T00:35:56.816280"
     },
     {
         "id": "Samsung_Ga_N/A_512GB",
         "titulo": "Samsung Galaxy S24 Ultra 5g Dual Sim 512 Gb Titanium Violet",
         "precio": "$3.929.900",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2900498028-samsung-galaxy-s24-ultra-5g-dual-sim-512-gb-titanium-violet-_JM?searchVariation=188393398621#polycard_client=search-nordic&searchVariation=188393398621&position=21&search_layout=stack&type=item&tracking_id=d6a15808-41a9-4961-9866-a2fc9fe457cd",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2900498028-samsung-galaxy-s24-ultra-5g-dual-sim-512-gb-titanium-violet-_JM?searchVariation=188393398621#polycard_client=search-nordic&searchVariation=188393398621&position=21&search_layout=stack&type=item&tracking_id=dabc737d-cb5e-42cf-be8d-22a62f110fcb",
         "imagen": "https://http2.mlstatic.com/D_Q_NP_2X_859040-MCO86093367769_062025-V.webp",
         "método": "BeautifulSoup",
         "capacidad": "512GB",
         "ram": null,
         "color": "Violeta",
-        "timestamp": "2025-06-14T23:28:21.598131"
+        "timestamp": "2025-06-15T00:35:56.816503"
     },
     {
         "id": "Samsung_Ga_N/A_1TB",
         "titulo": "Samsung Galaxy S24 Ultra 1tb.  8 Dias De Uso",
         "precio": "$4.800.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-1581908719-samsung-galaxy-s24-ultra-1tb-8-dias-de-uso-_JM?searchVariation=187915731503#polycard_client=search-nordic&searchVariation=187915731503&position=22&search_layout=stack&type=item&tracking_id=d6a15808-41a9-4961-9866-a2fc9fe457cd",
+        "link": "https://articulo.mercadolibre.com.co/MCO-1581908719-samsung-galaxy-s24-ultra-1tb-8-dias-de-uso-_JM?searchVariation=187915731503#polycard_client=search-nordic&searchVariation=187915731503&position=22&search_layout=stack&type=item&tracking_id=dabc737d-cb5e-42cf-be8d-22a62f110fcb",
         "imagen": "https://http2.mlstatic.com/D_Q_NP_2X_981614-MCO84326220552_052025-V.webp",
         "método": "BeautifulSoup",
         "capacidad": "1TB",
         "ram": null,
         "color": null,
-        "timestamp": "2025-06-14T23:28:21.598567"
+        "timestamp": "2025-06-15T00:35:56.816728"
     },
     {
         "id": "Samsung_Ga_N/A_N/A",
         "titulo": "Samsung Galaxy S24 Ultra- Potencia, De Otro Nivel",
         "precio": "$3.200.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2880715516-samsung-galaxy-s24-ultra-potencia-de-otro-nivel-_JM?searchVariation=183747594008#polycard_client=search-nordic&searchVariation=183747594008&position=23&search_layout=stack&type=item&tracking_id=d6a15808-41a9-4961-9866-a2fc9fe457cd",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2880715516-samsung-galaxy-s24-ultra-potencia-de-otro-nivel-_JM?searchVariation=183747594008#polycard_client=search-nordic&searchVariation=183747594008&position=23&search_layout=stack&type=item&tracking_id=dabc737d-cb5e-42cf-be8d-22a62f110fcb",
         "imagen": "https://http2.mlstatic.com/D_Q_NP_2X_701167-MCO85309612175_052025-V.webp",
         "método": "BeautifulSoup",
         "capacidad": null,
         "ram": null,
         "color": null,
-        "timestamp": "2025-06-14T23:28:21.599037"
+        "timestamp": "2025-06-15T00:35:56.816949"
     },
     {
         "id": "Celular_Sa_N/A_256GB",
         "titulo": "Celular Samsung S24 Ultra 256 Gb",
         "precio": "$3.950.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2854856256-celular-samsung-s24-ultra-256-gb-_JM?searchVariation=183431322352#polycard_client=search-nordic&searchVariation=183431322352&position=24&search_layout=stack&type=item&tracking_id=d6a15808-41a9-4961-9866-a2fc9fe457cd",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2854856256-celular-samsung-s24-ultra-256-gb-_JM?searchVariation=183431322352#polycard_client=search-nordic&searchVariation=183431322352&position=24&search_layout=stack&type=item&tracking_id=dabc737d-cb5e-42cf-be8d-22a62f110fcb",
         "imagen": "https://http2.mlstatic.com/D_Q_NP_2X_671090-MCO83718259472_042025-V.webp",
         "método": "BeautifulSoup",
         "capacidad": "256GB",
         "ram": null,
         "color": null,
-        "timestamp": "2025-06-14T23:28:21.599489"
+        "timestamp": "2025-06-15T00:35:56.817185"
     },
     {
         "id": "Samsung_Ga_N/A_256GB",
         "titulo": "Samsung Galaxy S24 Ultra 5g 256 Gbb",
         "precio": "$4.045.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-1593750169-samsung-galaxy-s24-ultra-5g-256-gbb-_JM?searchVariation=183780529086#polycard_client=search-nordic&searchVariation=183780529086&position=25&search_layout=stack&type=item&tracking_id=d6a15808-41a9-4961-9866-a2fc9fe457cd",
+        "link": "https://articulo.mercadolibre.com.co/MCO-1593750169-samsung-galaxy-s24-ultra-5g-256-gbb-_JM?searchVariation=183780529086#polycard_client=search-nordic&searchVariation=183780529086&position=25&search_layout=stack&type=item&tracking_id=dabc737d-cb5e-42cf-be8d-22a62f110fcb",
         "imagen": "https://http2.mlstatic.com/D_Q_NP_2X_653189-MCO85194667216_052025-V.webp",
         "método": "BeautifulSoup",
         "capacidad": "256GB",
         "ram": null,
         "color": null,
-        "timestamp": "2025-06-14T23:28:21.600049"
+        "timestamp": "2025-06-15T00:35:56.817405"
     },
     {
         "id": "Samsung_Ga_N/A_256GB",
         "titulo": "Samsung Galaxy S24 Ultra 12gb 256gb Dual Sim Violeta",
         "precio": "$3.890.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2852317638-samsung-galaxy-s24-ultra-12gb-256gb-dual-sim-violeta-_JM?searchVariation=183398645940#polycard_client=search-nordic&searchVariation=183398645940&position=26&search_layout=stack&type=item&tracking_id=d6a15808-41a9-4961-9866-a2fc9fe457cd",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2852317638-samsung-galaxy-s24-ultra-12gb-256gb-dual-sim-violeta-_JM?searchVariation=183398645940#polycard_client=search-nordic&searchVariation=183398645940&position=26&search_layout=stack&type=item&tracking_id=dabc737d-cb5e-42cf-be8d-22a62f110fcb",
         "imagen": "https://http2.mlstatic.com/D_Q_NP_2X_903471-MCO83903823328_042025-V.webp",
         "método": "BeautifulSoup",
         "capacidad": "256GB",
         "ram": null,
         "color": "Violeta",
-        "timestamp": "2025-06-14T23:28:21.600667"
+        "timestamp": "2025-06-15T00:35:56.817626"
     },
     {
         "id": "Samsung_Ga_12GB_512GB",
         "titulo": "Samsung Galaxy S24 Ultra 5g 512 Gb Titanium Gray 12 Gb Ram",
         "precio": "$4.250.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2877351100-samsung-galaxy-s24-ultra-5g-512-gb-titanium-gray-12-gb-ram-_JM?searchVariation=183705404142#polycard_client=search-nordic&searchVariation=183705404142&position=27&search_layout=stack&type=item&tracking_id=d6a15808-41a9-4961-9866-a2fc9fe457cd",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2877351100-samsung-galaxy-s24-ultra-5g-512-gb-titanium-gray-12-gb-ram-_JM?searchVariation=183705404142#polycard_client=search-nordic&searchVariation=183705404142&position=27&search_layout=stack&type=item&tracking_id=dabc737d-cb5e-42cf-be8d-22a62f110fcb",
         "imagen": "https://http2.mlstatic.com/D_Q_NP_2X_987455-MCO83281605913_032025-V.webp",
         "método": "BeautifulSoup",
         "capacidad": "512GB",
         "ram": "12GB",
         "color": "Gris",
-        "timestamp": "2025-06-14T23:28:21.601348"
+        "timestamp": "2025-06-15T00:35:56.817845"
     },
     {
         "id": "Samsung_Ga_12GB_256GB",
         "titulo": "Samsung Galaxy S24 Ultra 5g Dual Sim 256gb Violeta 12gb Ram",
         "precio": "$4.100.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-1552975647-samsung-galaxy-s24-ultra-5g-dual-sim-256gb-violeta-12gb-ram-_JM?searchVariation=187160564161#polycard_client=search-nordic&searchVariation=187160564161&position=28&search_layout=stack&type=item&tracking_id=d6a15808-41a9-4961-9866-a2fc9fe457cd",
+        "link": "https://articulo.mercadolibre.com.co/MCO-1552975647-samsung-galaxy-s24-ultra-5g-dual-sim-256gb-violeta-12gb-ram-_JM?searchVariation=187160564161#polycard_client=search-nordic&searchVariation=187160564161&position=28&search_layout=stack&type=item&tracking_id=dabc737d-cb5e-42cf-be8d-22a62f110fcb",
         "imagen": "https://http2.mlstatic.com/D_Q_NP_2X_791667-MCO82965015375_032025-V.webp",
         "método": "BeautifulSoup",
         "capacidad": "256GB",
         "ram": "12GB",
         "color": "Violeta",
-        "timestamp": "2025-06-14T23:28:21.602011"
+        "timestamp": "2025-06-15T00:35:56.818087"
     },
     {
         "id": "Samsung_Ga_N/A_256GB",
         "titulo": "Samsung Galaxy S24 Ultra Titanium Black 256 Gb Grado A",
         "precio": "$3.559.200",
-        "link": "https://articulo.mercadolibre.com.co/MCO-1598331747-samsung-galaxy-s24-ultra-titanium-black-256-gb-grado-a-_JM?searchVariation=183851051970#polycard_client=search-nordic&searchVariation=183851051970&position=29&search_layout=stack&type=item&tracking_id=d6a15808-41a9-4961-9866-a2fc9fe457cd",
+        "link": "https://articulo.mercadolibre.com.co/MCO-1598331747-samsung-galaxy-s24-ultra-titanium-black-256-gb-grado-a-_JM?searchVariation=183851051970#polycard_client=search-nordic&searchVariation=183851051970&position=29&search_layout=stack&type=item&tracking_id=dabc737d-cb5e-42cf-be8d-22a62f110fcb",
         "imagen": "https://http2.mlstatic.com/D_Q_NP_2X_954479-MCO85852565889_062025-V.webp",
         "método": "BeautifulSoup",
         "capacidad": "256GB",
         "ram": null,
         "color": "Negro",
-        "timestamp": "2025-06-14T23:28:21.602408"
+        "timestamp": "2025-06-15T00:35:56.818311"
     },
     {
         "id": "Samsung_S2_N/A_256GB",
         "titulo": "Samsung S24 Ultra Dual Sim 256 Gb Titanio Violeta, Negociabl",
         "precio": "$3.599.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2890206258-samsung-s24-ultra-dual-sim-256-gb-titanio-violeta-negociabl-_JM?searchVariation=188306838775#polycard_client=search-nordic&searchVariation=188306838775&position=30&search_layout=stack&type=item&tracking_id=d6a15808-41a9-4961-9866-a2fc9fe457cd",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2890206258-samsung-s24-ultra-dual-sim-256-gb-titanio-violeta-negociabl-_JM?searchVariation=188306838775#polycard_client=search-nordic&searchVariation=188306838775&position=30&search_layout=stack&type=item&tracking_id=dabc737d-cb5e-42cf-be8d-22a62f110fcb",
         "imagen": "https://http2.mlstatic.com/D_Q_NP_2X_830369-MCO85531810244_062025-V.webp",
         "método": "BeautifulSoup",
         "capacidad": "256GB",
         "ram": null,
         "color": "Violeta",
-        "timestamp": "2025-06-14T23:28:21.602834"
+        "timestamp": "2025-06-15T00:35:56.818530"
     },
     {
         "id": "Samsung_Ga_12GB_256GB",
         "titulo": "Samsung Galaxy S24 Ultra 256gb 12gb Ram Titanium Black",
         "precio": "$3.199.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2889235020-samsung-galaxy-s24-ultra-256gb-12gb-ram-titanium-black-_JM?searchVariation=183835575344#polycard_client=search-nordic&searchVariation=183835575344&position=31&search_layout=stack&type=item&tracking_id=d6a15808-41a9-4961-9866-a2fc9fe457cd",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2889235020-samsung-galaxy-s24-ultra-256gb-12gb-ram-titanium-black-_JM?searchVariation=183835575344#polycard_client=search-nordic&searchVariation=183835575344&position=31&search_layout=stack&type=item&tracking_id=dabc737d-cb5e-42cf-be8d-22a62f110fcb",
         "imagen": "https://http2.mlstatic.com/D_Q_NP_2X_812048-MCO85762055961_062025-V.webp",
         "método": "BeautifulSoup",
         "capacidad": "256GB",
         "ram": "12GB",
         "color": "Negro",
-        "timestamp": "2025-06-14T23:28:21.603298"
+        "timestamp": "2025-06-15T00:35:56.818748"
     },
     {
         "id": "Celular_Sa_N/A_256GB",
         "titulo": "Celular Samsung Galaxy S24 Ultra 12gb 256gb Violeta Titanium",
         "precio": "$4.000.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2868826256-celular-samsung-galaxy-s24-ultra-12gb-256gb-violeta-titanium-_JM?searchVariation=187943096543#polycard_client=search-nordic&searchVariation=187943096543&position=32&search_layout=stack&type=item&tracking_id=d6a15808-41a9-4961-9866-a2fc9fe457cd",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2868826256-celular-samsung-galaxy-s24-ultra-12gb-256gb-violeta-titanium-_JM?searchVariation=187943096543#polycard_client=search-nordic&searchVariation=187943096543&position=32&search_layout=stack&type=item&tracking_id=dabc737d-cb5e-42cf-be8d-22a62f110fcb",
         "imagen": "https://http2.mlstatic.com/D_Q_NP_2X_994156-MCO84706269981_052025-V.webp",
         "método": "BeautifulSoup",
         "capacidad": "256GB",
         "ram": null,
         "color": "Violeta",
-        "timestamp": "2025-06-14T23:28:21.603794"
+        "timestamp": "2025-06-15T00:35:56.818969"
     },
     {
         "id": "Samsung_Ga_N/A_256GB",
         "titulo": "Samsung Galaxy S24 Ultra 5g Dual Sim 256 Gb Titanium Black",
         "precio": "$3.650.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-1581845121-samsung-galaxy-s24-ultra-5g-dual-sim-256-gb-titanium-black-_JM?searchVariation=187913346643#polycard_client=search-nordic&searchVariation=187913346643&position=33&search_layout=stack&type=item&tracking_id=d6a15808-41a9-4961-9866-a2fc9fe457cd",
+        "link": "https://articulo.mercadolibre.com.co/MCO-1581845121-samsung-galaxy-s24-ultra-5g-dual-sim-256-gb-titanium-black-_JM?searchVariation=187913346643#polycard_client=search-nordic&searchVariation=187913346643&position=33&search_layout=stack&type=item&tracking_id=dabc737d-cb5e-42cf-be8d-22a62f110fcb",
         "imagen": "https://http2.mlstatic.com/D_Q_NP_2X_620945-MCO84320189198_052025-V.webp",
         "método": "BeautifulSoup",
         "capacidad": "256GB",
         "ram": null,
         "color": "Negro",
-        "timestamp": "2025-06-14T23:28:21.604247"
+        "timestamp": "2025-06-15T00:35:56.819203"
     },
     {
         "id": "Samsung_Ga_N/A_256GB",
         "titulo": "Samsung Galaxy S24 Ultra De 256gb En Caja Como Nuevo",
         "precio": "$3.700.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-1588528261-samsung-galaxy-s24-ultra-de-256gb-en-caja-como-nuevo-_JM?searchVariation=188094198355#polycard_client=search-nordic&searchVariation=188094198355&position=34&search_layout=stack&type=item&tracking_id=d6a15808-41a9-4961-9866-a2fc9fe457cd",
+        "link": "https://articulo.mercadolibre.com.co/MCO-1588528261-samsung-galaxy-s24-ultra-de-256gb-en-caja-como-nuevo-_JM?searchVariation=188094198355#polycard_client=search-nordic&searchVariation=188094198355&position=34&search_layout=stack&type=item&tracking_id=dabc737d-cb5e-42cf-be8d-22a62f110fcb",
         "imagen": "https://http2.mlstatic.com/D_Q_NP_2X_763948-MCO84817577558_052025-V.webp",
         "método": "BeautifulSoup",
         "capacidad": "256GB",
         "ram": null,
         "color": null,
-        "timestamp": "2025-06-14T23:28:21.604704"
+        "timestamp": "2025-06-15T00:35:56.819421"
     },
     {
         "id": "Samsung_Ga_N/A_N/A",
         "titulo": "Samsung Galaxy S24 Ultra",
         "precio": "$4.299.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-1582800289-samsung-galaxy-s24-ultra-_JM?searchVariation=187945312641#polycard_client=search-nordic&searchVariation=187945312641&position=35&search_layout=stack&type=item&tracking_id=d6a15808-41a9-4961-9866-a2fc9fe457cd",
+        "link": "https://articulo.mercadolibre.com.co/MCO-1582800289-samsung-galaxy-s24-ultra-_JM?searchVariation=187945312641#polycard_client=search-nordic&searchVariation=187945312641&position=35&search_layout=stack&type=item&tracking_id=dabc737d-cb5e-42cf-be8d-22a62f110fcb",
         "imagen": "https://http2.mlstatic.com/D_Q_NP_2X_946574-MCO84713887925_052025-V.webp",
         "método": "BeautifulSoup",
         "capacidad": null,
         "ram": null,
         "color": null,
-        "timestamp": "2025-06-14T23:28:21.605169"
+        "timestamp": "2025-06-15T00:35:56.819638"
     },
     {
         "id": "Galaxy_24__N/A_256GB",
         "titulo": "Galaxy 24 Ultra 256gb",
         "precio": "$4.000.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2897112496-galaxy-24-ultra-256gb-_JM?searchVariation=183886713262#polycard_client=search-nordic&searchVariation=183886713262&position=36&search_layout=stack&type=item&tracking_id=d6a15808-41a9-4961-9866-a2fc9fe457cd",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2897112496-galaxy-24-ultra-256gb-_JM?searchVariation=183886713262#polycard_client=search-nordic&searchVariation=183886713262&position=36&search_layout=stack&type=item&tracking_id=dabc737d-cb5e-42cf-be8d-22a62f110fcb",
         "imagen": "https://http2.mlstatic.com/D_Q_NP_2X_720164-MCO86036575915_062025-V.webp",
         "método": "BeautifulSoup",
         "capacidad": "256GB",
         "ram": null,
         "color": null,
-        "timestamp": "2025-06-14T23:28:21.605980"
+        "timestamp": "2025-06-15T00:35:56.819855"
     },
     {
         "id": "Celular_Sa_N/A_N/A",
         "titulo": "Celular Samsung S24 Ultra (dual Esim)",
         "precio": "$3.700.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-1571262091-celular-samsung-s24-ultra-dual-esim-_JM?searchVariation=187589208567#polycard_client=search-nordic&searchVariation=187589208567&position=37&search_layout=stack&type=item&tracking_id=d6a15808-41a9-4961-9866-a2fc9fe457cd",
+        "link": "https://articulo.mercadolibre.com.co/MCO-1571262091-celular-samsung-s24-ultra-dual-esim-_JM?searchVariation=187589208567#polycard_client=search-nordic&searchVariation=187589208567&position=37&search_layout=stack&type=item&tracking_id=dabc737d-cb5e-42cf-be8d-22a62f110fcb",
         "imagen": "https://http2.mlstatic.com/D_Q_NP_2X_787307-MCO82328504312_022025-V.webp",
         "método": "BeautifulSoup",
         "capacidad": null,
         "ram": null,
         "color": null,
-        "timestamp": "2025-06-14T23:28:21.606387"
+        "timestamp": "2025-06-15T00:35:56.820092"
     },
     {
         "id": "Samsung_Ga_N/A_N/A",
         "titulo": "Samsung Galaxi S24 Ultra Poco Usos Como Nuevo Único Dueño",
         "precio": "$3.600.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2866193512-samsung-galaxi-s24-ultra-poco-usos-como-nuevo-unico-dueno-_JM?searchVariation=183572867376#polycard_client=search-nordic&searchVariation=183572867376&position=38&search_layout=stack&type=item&tracking_id=d6a15808-41a9-4961-9866-a2fc9fe457cd",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2866193512-samsung-galaxi-s24-ultra-poco-usos-como-nuevo-unico-dueno-_JM?searchVariation=183572867376#polycard_client=search-nordic&searchVariation=183572867376&position=38&search_layout=stack&type=item&tracking_id=dabc737d-cb5e-42cf-be8d-22a62f110fcb",
         "imagen": "https://http2.mlstatic.com/D_Q_NP_2X_646141-MCO84532840779_052025-V.webp",
         "método": "BeautifulSoup",
         "capacidad": null,
         "ram": null,
         "color": null,
-        "timestamp": "2025-06-14T23:28:21.606850"
+        "timestamp": "2025-06-15T00:35:56.820314"
     },
     {
         "id": "Samsung_Ga_12GB_256GB",
         "titulo": "Samsung Galaxy S24 Ultra Dual Sim 256gb 12gb Ram Negro",
         "precio": "$3.300.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2892621616-samsung-galaxy-s24-ultra-dual-sim-256gb-12gb-ram-negro-_JM?searchVariation=188337024331#polycard_client=search-nordic&searchVariation=188337024331&position=39&search_layout=stack&type=item&tracking_id=d6a15808-41a9-4961-9866-a2fc9fe457cd",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2892621616-samsung-galaxy-s24-ultra-dual-sim-256gb-12gb-ram-negro-_JM?searchVariation=188337024331#polycard_client=search-nordic&searchVariation=188337024331&position=39&search_layout=stack&type=item&tracking_id=dabc737d-cb5e-42cf-be8d-22a62f110fcb",
         "imagen": "https://http2.mlstatic.com/D_Q_NP_2X_635615-MCO85625385624_062025-V.webp",
         "método": "BeautifulSoup",
         "capacidad": "256GB",
         "ram": "12GB",
         "color": "Negro",
-        "timestamp": "2025-06-14T23:28:21.607289"
+        "timestamp": "2025-06-15T00:35:56.820533"
     },
     {
         "id": "Samsung_Ga_12GB_256GB",
         "titulo": "Samsung Galaxy S24 Ultra 256gb 12gb Ram Dual Sim",
         "precio": "$3.800.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2871013408-samsung-galaxy-s24-ultra-256gb-12gb-ram-dual-sim-_JM?searchVariation=183633271564#polycard_client=search-nordic&searchVariation=183633271564&position=40&search_layout=stack&type=item&tracking_id=d6a15808-41a9-4961-9866-a2fc9fe457cd",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2871013408-samsung-galaxy-s24-ultra-256gb-12gb-ram-dual-sim-_JM?searchVariation=183633271564#polycard_client=search-nordic&searchVariation=183633271564&position=40&search_layout=stack&type=item&tracking_id=dabc737d-cb5e-42cf-be8d-22a62f110fcb",
         "imagen": "https://http2.mlstatic.com/D_Q_NP_2X_931586-MCO84502516566_052025-V.webp",
         "método": "BeautifulSoup",
         "capacidad": "256GB",
         "ram": "12GB",
         "color": null,
-        "timestamp": "2025-06-14T23:28:21.607764"
+        "timestamp": "2025-06-15T00:35:56.820750"
     },
     {
         "id": "Samsung_S2_N/A_1TB",
         "titulo": "Samsung S24 Ultra 1 Tb",
         "precio": "$4.500.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-1600458915-samsung-s24-ultra-1-tb-_JM?searchVariation=188374696403#polycard_client=search-nordic&searchVariation=188374696403&position=41&search_layout=stack&type=item&tracking_id=d6a15808-41a9-4961-9866-a2fc9fe457cd",
+        "link": "https://articulo.mercadolibre.com.co/MCO-1600458915-samsung-s24-ultra-1-tb-_JM?searchVariation=188374696403#polycard_client=search-nordic&searchVariation=188374696403&position=41&search_layout=stack&type=item&tracking_id=dabc737d-cb5e-42cf-be8d-22a62f110fcb",
         "imagen": "https://http2.mlstatic.com/D_Q_NP_2X_679411-MCO85730773140_062025-V.webp",
         "método": "BeautifulSoup",
         "capacidad": "1TB",
         "ram": null,
         "color": null,
-        "timestamp": "2025-06-14T23:28:21.608205"
+        "timestamp": "2025-06-15T00:35:56.820970"
     },
     {
         "id": "Celular_Sa_N/A_N/A",
         "titulo": "Celular Samsung S24 Ultra (dual Esim)",
         "precio": "$6.700.000",
-        "link": "https://www.mercadolibre.com.co/celular-samsung-s24-ultra-dual-esim/p/MCO37974940#polycard_client=search-nordic&searchVariation=MCO37974940&position=41&search_layout=stack&type=product&tracking_id=d6a15808-41a9-4961-9866-a2fc9fe457cd&wid=&sid=search",
+        "link": "https://www.mercadolibre.com.co/celular-samsung-s24-ultra-dual-esim/p/MCO37974940#polycard_client=search-nordic&searchVariation=MCO37974940&position=40&search_layout=stack&type=product&tracking_id=dabc737d-cb5e-42cf-be8d-22a62f110fcb&wid=&sid=search",
         "imagen": "https://http2.mlstatic.com/D_Q_NP_2X_687375-MLU77413231491_072024-V.webp",
         "método": "BeautifulSoup",
         "capacidad": null,
         "ram": null,
         "color": null,
-        "timestamp": "2025-06-14T23:28:21.608609"
+        "timestamp": "2025-06-15T00:35:56.821199"
     },
     {
         "id": "Samsung_Ga_12GB_512GB",
         "titulo": "Samsung Galaxy S24 Ultra 5G Dual SIM 512 GB titanium black 12 GB RAM - Excelente (Reacondicionado)",
         "precio": "$4.000.000",
-        "link": "https://www.mercadolibre.com.co/samsung-galaxy-s24-ultra-5g-dual-sim-512-gb-titanium-black-12-gb-ram-excelente-reacondicionado/p/MCO2000058697#polycard_client=search-nordic&searchVariation=MCO2000058697&position=42&search_layout=stack&type=product&tracking_id=d6a15808-41a9-4961-9866-a2fc9fe457cd&wid=&sid=search",
+        "link": "https://www.mercadolibre.com.co/samsung-galaxy-s24-ultra-5g-dual-sim-512-gb-titanium-black-12-gb-ram-excelente-reacondicionado/p/MCO2000058697#polycard_client=search-nordic&searchVariation=MCO2000058697&position=46&search_layout=stack&type=product&tracking_id=dabc737d-cb5e-42cf-be8d-22a62f110fcb&wid=&sid=search",
         "imagen": "https://http2.mlstatic.com/D_Q_NP_2X_943032-MLA74322939878_022024-V.webp",
         "método": "BeautifulSoup",
         "capacidad": "512GB",
         "ram": "12GB",
         "color": "Negro",
-        "timestamp": "2025-06-14T23:28:21.609026"
+        "timestamp": "2025-06-15T00:35:56.821407"
     },
     {
         "id": "Celular_Sa_N/A_256GB",
         "titulo": "Celular Samsung Galaxy S24 Ultra 12gb 256gb Violeta Titanium",
         "precio": "$3.756.000",
-        "link": "https://www.mercadolibre.com.co/celular-samsung-galaxy-s24-ultra-12gb-256gb-violeta-titanium/p/MCO46080442#polycard_client=search-nordic&searchVariation=MCO46080442&position=39&search_layout=stack&type=product&tracking_id=d6a15808-41a9-4961-9866-a2fc9fe457cd&wid=&sid=search",
+        "link": "https://www.mercadolibre.com.co/celular-samsung-galaxy-s24-ultra-12gb-256gb-violeta-titanium/p/MCO46080442#polycard_client=search-nordic&searchVariation=MCO46080442&position=44&search_layout=stack&type=product&tracking_id=dabc737d-cb5e-42cf-be8d-22a62f110fcb&wid=&sid=search",
         "imagen": "https://http2.mlstatic.com/D_Q_NP_2X_743934-MLA82449695961_022025-V.webp",
         "método": "BeautifulSoup",
         "capacidad": "256GB",
         "ram": null,
         "color": "Violeta",
-        "timestamp": "2025-06-14T23:28:21.609404"
+        "timestamp": "2025-06-15T00:35:56.821614"
     },
     {
         "id": "Samsung_Ga_12GB_1TB",
         "titulo": "Samsung Galaxy S24 Ultra 5G Dual SIM 1 TB titanium green 12 GB RAM",
         "precio": "$7.700.000",
-        "link": "https://www.mercadolibre.com.co/samsung-galaxy-s24-ultra-5g-dual-sim-1-tb-titanium-green-12-gb-ram/p/MCO29893921#polycard_client=search-nordic&searchVariation=MCO29893921&position=45&search_layout=stack&type=product&tracking_id=d6a15808-41a9-4961-9866-a2fc9fe457cd&wid=&sid=search",
+        "link": "https://www.mercadolibre.com.co/samsung-galaxy-s24-ultra-5g-dual-sim-1-tb-titanium-green-12-gb-ram/p/MCO29893921#polycard_client=search-nordic&searchVariation=MCO29893921&position=43&search_layout=stack&type=product&tracking_id=dabc737d-cb5e-42cf-be8d-22a62f110fcb&wid=&sid=search",
         "imagen": "https://http2.mlstatic.com/D_Q_NP_2X_873281-MLA74088134534_012024-V.webp",
         "método": "BeautifulSoup",
         "capacidad": "1TB",
         "ram": "12GB",
         "color": null,
-        "timestamp": "2025-06-14T23:28:21.609821"
+        "timestamp": "2025-06-15T00:35:56.821830"
     },
     {
         "id": "Samsung_Ga_12GB_256GB",
         "titulo": "Samsung Galaxy S24 Ultra Galaxy Ai 6.8 pulgadas 12 GB RAM 256 GB Titanio Violeta",
         "precio": "$4.200.000",
-        "link": "https://www.mercadolibre.com.co/samsung-galaxy-s24-ultra-galaxy-ai-68-pulgadas-12-gb-ram-256-gb-titanio-violeta/p/MCO29907046#polycard_client=search-nordic&searchVariation=MCO29907046&position=38&search_layout=stack&type=product&tracking_id=d6a15808-41a9-4961-9866-a2fc9fe457cd&wid=&sid=search",
+        "link": "https://www.mercadolibre.com.co/samsung-galaxy-s24-ultra-galaxy-ai-68-pulgadas-12-gb-ram-256-gb-titanio-violeta/p/MCO29907046#polycard_client=search-nordic&searchVariation=MCO29907046&position=38&search_layout=stack&type=product&tracking_id=dabc737d-cb5e-42cf-be8d-22a62f110fcb&wid=&sid=search",
         "imagen": "https://http2.mlstatic.com/D_Q_NP_2X_634210-MLU74091957382_012024-V.webp",
         "método": "BeautifulSoup",
         "capacidad": "256GB",
         "ram": "12GB",
         "color": "Violeta",
-        "timestamp": "2025-06-14T23:28:21.610187"
-    },
-    {
-        "id": "Samsung_Ga_12GB_256GB",
-        "titulo": "Samsung Galaxy S24 Ultra 5G Dual SIM 256 GB titanium black 12 GB RAM",
-        "precio": "$6.589.000",
-        "link": "https://www.mercadolibre.com.co/samsung-galaxy-s24-ultra-5g-dual-sim-256-gb-titanium-black-12-gb-ram/p/MCO31493325#polycard_client=search-nordic&searchVariation=MCO31493325&position=5&search_layout=stack&type=product&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16&wid=MCO2215702650&sid=search",
-        "imagen": "https://http2.mlstatic.com/D_Q_NP_2X_731135-MLA79227832577_092024-V.webp",
-        "método": "Scrapy",
-        "capacidad": "256GB",
-        "ram": "12GB",
-        "color": "Negro",
-        "timestamp": "2025-06-14T23:28:22.844361"
-    },
-    {
-        "id": "Samsung_Ga_12GB_256GB",
-        "titulo": "Samsung Galaxy S24 Ultra 5G Dual SIM 256 GB titanium black 12 GB RAM",
-        "precio": "$6.589.000",
-        "link": "https://www.mercadolibre.com.co/samsung-galaxy-s24-ultra-5g-dual-sim-256-gb-titanium-black-12-gb-ram/p/MCO31493325#polycard_client=search-nordic&searchVariation=MCO31493325&position=5&search_layout=stack&type=product&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16&wid=MCO2215702650&sid=search",
-        "imagen": "https://http2.mlstatic.com/D_Q_NP_2X_731135-MLA79227832577_092024-V.webp",
-        "método": "Scrapy",
-        "capacidad": "256GB",
-        "ram": "12GB",
-        "color": "Negro",
-        "timestamp": "2025-06-14T23:28:22.845147"
+        "timestamp": "2025-06-15T00:35:56.822051"
     },
     {
         "id": "Samsung_Ga_12GB_512GB",
         "titulo": "Samsung Galaxy S24 Ultra 5G Dual SIM 512 GB titanium gray 12 GB RAM",
         "precio": "$6.999.900",
-        "link": "https://www.mercadolibre.com.co/samsung-galaxy-s24-ultra-5g-dual-sim-512-gb-titanium-gray-12-gb-ram/p/MCO29893931#polycard_client=search-nordic&searchVariation=MCO29893931&position=3&search_layout=stack&type=product&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16&wid=MCO1452157273&sid=search",
+        "link": "https://www.mercadolibre.com.co/samsung-galaxy-s24-ultra-5g-dual-sim-512-gb-titanium-gray-12-gb-ram/p/MCO29893931#polycard_client=search-nordic&searchVariation=MCO29893931&position=4&search_layout=stack&type=product&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0&wid=MCO1452157273&sid=search",
         "imagen": "https://http2.mlstatic.com/D_Q_NP_2X_937455-MLA74439150067_022024-V.webp",
         "método": "Scrapy",
         "capacidad": "512GB",
         "ram": "12GB",
         "color": "Gris",
-        "timestamp": "2025-06-14T23:28:22.845817"
+        "timestamp": "2025-06-15T00:35:58.290071"
     },
     {
         "id": "Samsung_Ga_12GB_512GB",
         "titulo": "Samsung Galaxy S24 Ultra 5G Dual SIM 512 GB titanium gray 12 GB RAM",
         "precio": "$6.999.900",
-        "link": "https://www.mercadolibre.com.co/samsung-galaxy-s24-ultra-5g-dual-sim-512-gb-titanium-gray-12-gb-ram/p/MCO29893931#polycard_client=search-nordic&searchVariation=MCO29893931&position=3&search_layout=stack&type=product&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16&wid=MCO1452157273&sid=search",
+        "link": "https://www.mercadolibre.com.co/samsung-galaxy-s24-ultra-5g-dual-sim-512-gb-titanium-gray-12-gb-ram/p/MCO29893931#polycard_client=search-nordic&searchVariation=MCO29893931&position=4&search_layout=stack&type=product&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0&wid=MCO1452157273&sid=search",
         "imagen": "https://http2.mlstatic.com/D_Q_NP_2X_937455-MLA74439150067_022024-V.webp",
         "método": "Scrapy",
         "capacidad": "512GB",
         "ram": "12GB",
         "color": "Gris",
-        "timestamp": "2025-06-14T23:28:22.846426"
+        "timestamp": "2025-06-15T00:35:58.290729"
     },
     {
         "id": "Samsung_Ga_12GB_512GB",
         "titulo": "Samsung Galaxy S24 Ultra 5G Dual SIM 512 GB titanium violet 12 GB RAM",
         "precio": "$4.095.900",
-        "link": "https://www.mercadolibre.com.co/samsung-galaxy-s24-ultra-5g-dual-sim-512-gb-titanium-violet-12-gb-ram/p/MCO29893911#polycard_client=search-nordic&searchVariation=MCO29893911&position=9&search_layout=stack&type=product&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16&wid=MCO2887633424&sid=search",
-        "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "link": "https://www.mercadolibre.com.co/samsung-galaxy-s24-ultra-5g-dual-sim-512-gb-titanium-violet-12-gb-ram/p/MCO29893911#polycard_client=search-nordic&searchVariation=MCO29893911&position=5&search_layout=stack&type=product&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0&wid=MCO2887633424&sid=search",
+        "imagen": "https://http2.mlstatic.com/D_Q_NP_2X_876756-MLA74196675597_012024-V.webp",
         "método": "Scrapy",
         "capacidad": "512GB",
         "ram": "12GB",
         "color": "Violeta",
-        "timestamp": "2025-06-14T23:28:22.847155"
+        "timestamp": "2025-06-15T00:35:58.291389"
     },
     {
         "id": "Samsung_Ga_12GB_512GB",
         "titulo": "Samsung Galaxy S24 Ultra 5G Dual SIM 512 GB titanium violet 12 GB RAM",
         "precio": "$4.095.900",
-        "link": "https://www.mercadolibre.com.co/samsung-galaxy-s24-ultra-5g-dual-sim-512-gb-titanium-violet-12-gb-ram/p/MCO29893911#polycard_client=search-nordic&searchVariation=MCO29893911&position=9&search_layout=stack&type=product&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16&wid=MCO2887633424&sid=search",
-        "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "link": "https://www.mercadolibre.com.co/samsung-galaxy-s24-ultra-5g-dual-sim-512-gb-titanium-violet-12-gb-ram/p/MCO29893911#polycard_client=search-nordic&searchVariation=MCO29893911&position=5&search_layout=stack&type=product&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0&wid=MCO2887633424&sid=search",
+        "imagen": "https://http2.mlstatic.com/D_Q_NP_2X_876756-MLA74196675597_012024-V.webp",
         "método": "Scrapy",
         "capacidad": "512GB",
         "ram": "12GB",
         "color": "Violeta",
-        "timestamp": "2025-06-14T23:28:22.847873"
+        "timestamp": "2025-06-15T00:35:58.292015"
+    },
+    {
+        "id": "Samsung_Ga_12GB_256GB",
+        "titulo": "Samsung Galaxy S24 Ultra 5G Dual SIM 256 GB titanium black 12 GB RAM",
+        "precio": "$5.422.500",
+        "link": "https://www.mercadolibre.com.co/samsung-galaxy-s24-ultra-5g-dual-sim-256-gb-titanium-black-12-gb-ram/p/MCO31493325#polycard_client=search-nordic&searchVariation=MCO31493325&position=6&search_layout=stack&type=product&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0&wid=MCO2893146594&sid=search",
+        "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "método": "Scrapy",
+        "capacidad": "256GB",
+        "ram": "12GB",
+        "color": "Negro",
+        "timestamp": "2025-06-15T00:35:58.292532"
+    },
+    {
+        "id": "Samsung_Ga_12GB_256GB",
+        "titulo": "Samsung Galaxy S24 Ultra 5G Dual SIM 256 GB titanium black 12 GB RAM",
+        "precio": "$5.422.500",
+        "link": "https://www.mercadolibre.com.co/samsung-galaxy-s24-ultra-5g-dual-sim-256-gb-titanium-black-12-gb-ram/p/MCO31493325#polycard_client=search-nordic&searchVariation=MCO31493325&position=6&search_layout=stack&type=product&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0&wid=MCO2893146594&sid=search",
+        "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "método": "Scrapy",
+        "capacidad": "256GB",
+        "ram": "12GB",
+        "color": "Negro",
+        "timestamp": "2025-06-15T00:35:58.293050"
     },
     {
         "id": "Samsung_Ga_8GB_256GB",
         "titulo": "Samsung Galaxy S24 Ultra 5G Dual SIM 256 GB titanium gray 8 GB RAM",
         "precio": "$6.589.000",
-        "link": "https://www.mercadolibre.com.co/samsung-galaxy-s24-ultra-5g-dual-sim-256-gb-titanium-gray-8-gb-ram/p/MCO29893924#polycard_client=search-nordic&searchVariation=MCO29893924&position=10&search_layout=stack&type=product&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16&wid=MCO1452118841&sid=search",
+        "link": "https://www.mercadolibre.com.co/samsung-galaxy-s24-ultra-5g-dual-sim-256-gb-titanium-gray-8-gb-ram/p/MCO29893924#polycard_client=search-nordic&searchVariation=MCO29893924&position=7&search_layout=stack&type=product&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0&wid=MCO1452118841&sid=search",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "256GB",
         "ram": "8GB",
         "color": "Gris",
-        "timestamp": "2025-06-14T23:28:22.848660"
+        "timestamp": "2025-06-15T00:35:58.293554"
     },
     {
         "id": "Samsung_Ga_8GB_256GB",
         "titulo": "Samsung Galaxy S24 Ultra 5G Dual SIM 256 GB titanium gray 8 GB RAM",
         "precio": "$6.589.000",
-        "link": "https://www.mercadolibre.com.co/samsung-galaxy-s24-ultra-5g-dual-sim-256-gb-titanium-gray-8-gb-ram/p/MCO29893924#polycard_client=search-nordic&searchVariation=MCO29893924&position=10&search_layout=stack&type=product&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16&wid=MCO1452118841&sid=search",
+        "link": "https://www.mercadolibre.com.co/samsung-galaxy-s24-ultra-5g-dual-sim-256-gb-titanium-gray-8-gb-ram/p/MCO29893924#polycard_client=search-nordic&searchVariation=MCO29893924&position=7&search_layout=stack&type=product&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0&wid=MCO1452118841&sid=search",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "256GB",
         "ram": "8GB",
         "color": "Gris",
-        "timestamp": "2025-06-14T23:28:22.849331"
+        "timestamp": "2025-06-15T00:35:58.294128"
     },
     {
         "id": "Celular_Sa_N/A_256GB",
         "titulo": "Celular Samsung Galaxy S24 Ultra 5g 256gb Lavanda",
         "precio": "$6.899.920",
-        "link": "https://articulo.mercadolibre.com.co/MCO-1382435825-celular-samsung-galaxy-s24-ultra-5g-256gb-lavanda-_JM?searchVariation=179710940278#polycard_client=search-nordic&searchVariation=179710940278&position=7&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-1382435825-celular-samsung-galaxy-s24-ultra-5g-256gb-lavanda-_JM?searchVariation=179710940278#polycard_client=search-nordic&searchVariation=179710940278&position=7&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "256GB",
         "ram": null,
         "color": "Lavanda",
-        "timestamp": "2025-06-14T23:28:22.850248"
+        "timestamp": "2025-06-15T00:35:58.294591"
     },
     {
         "id": "Celular_Sa_N/A_256GB",
         "titulo": "Celular Samsung Galaxy S24 Ultra 5g 256gb Lavanda",
         "precio": "$6.899.920",
-        "link": "https://articulo.mercadolibre.com.co/MCO-1382435825-celular-samsung-galaxy-s24-ultra-5g-256gb-lavanda-_JM?searchVariation=179710940278#polycard_client=search-nordic&searchVariation=179710940278&position=7&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-1382435825-celular-samsung-galaxy-s24-ultra-5g-256gb-lavanda-_JM?searchVariation=179710940278#polycard_client=search-nordic&searchVariation=179710940278&position=7&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "256GB",
         "ram": null,
         "color": "Lavanda",
-        "timestamp": "2025-06-14T23:28:22.851280"
+        "timestamp": "2025-06-15T00:35:58.295054"
     },
     {
         "id": "Samsung_Ga_N/A_256GB",
         "titulo": "Samsung Galaxy S24 Ultra Titanium Violet 256 Gb Grado A",
         "precio": "$3.489.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2890387536-samsung-galaxy-s24-ultra-titanium-violet-256-gb-grado-a-_JM?searchVariation=183850943012#polycard_client=search-nordic&searchVariation=183850943012&position=8&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2890387536-samsung-galaxy-s24-ultra-titanium-violet-256-gb-grado-a-_JM?searchVariation=183850943012#polycard_client=search-nordic&searchVariation=183850943012&position=8&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "256GB",
         "ram": null,
         "color": "Violeta",
-        "timestamp": "2025-06-14T23:28:22.852075"
+        "timestamp": "2025-06-15T00:35:58.295462"
     },
     {
         "id": "Samsung_Ga_N/A_256GB",
         "titulo": "Samsung Galaxy S24 Ultra Titanium Violet 256 Gb Grado A",
         "precio": "$3.489.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2890387536-samsung-galaxy-s24-ultra-titanium-violet-256-gb-grado-a-_JM?searchVariation=183850943012#polycard_client=search-nordic&searchVariation=183850943012&position=8&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2890387536-samsung-galaxy-s24-ultra-titanium-violet-256-gb-grado-a-_JM?searchVariation=183850943012#polycard_client=search-nordic&searchVariation=183850943012&position=8&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "256GB",
         "ram": null,
         "color": "Violeta",
-        "timestamp": "2025-06-14T23:28:22.852593"
+        "timestamp": "2025-06-15T00:35:58.295842"
     },
     {
         "id": "Samsung_Ga_N/A_256GB",
         "titulo": "Samsung Galaxy S24 Ultra 5g Dual Sim 256 Gb Titanium Black",
         "precio": "$3.719.900",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2899810268-samsung-galaxy-s24-ultra-5g-dual-sim-256-gb-titanium-black-_JM?searchVariation=188397667183#polycard_client=search-nordic&searchVariation=188397667183&position=9&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2899810268-samsung-galaxy-s24-ultra-5g-dual-sim-256-gb-titanium-black-_JM?searchVariation=188397667183#polycard_client=search-nordic&searchVariation=188397667183&position=9&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "256GB",
         "ram": null,
         "color": "Negro",
-        "timestamp": "2025-06-14T23:28:22.853124"
+        "timestamp": "2025-06-15T00:35:58.296253"
     },
     {
         "id": "Samsung_Ga_N/A_256GB",
         "titulo": "Samsung Galaxy S24 Ultra 5g Dual Sim 256 Gb Titanium Black",
         "precio": "$3.719.900",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2899810268-samsung-galaxy-s24-ultra-5g-dual-sim-256-gb-titanium-black-_JM?searchVariation=188397667183#polycard_client=search-nordic&searchVariation=188397667183&position=9&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2899810268-samsung-galaxy-s24-ultra-5g-dual-sim-256-gb-titanium-black-_JM?searchVariation=188397667183#polycard_client=search-nordic&searchVariation=188397667183&position=9&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "256GB",
         "ram": null,
         "color": "Negro",
-        "timestamp": "2025-06-14T23:28:22.853610"
+        "timestamp": "2025-06-15T00:35:58.296634"
     },
     {
         "id": "Samsung_Ga_12GB_1TB",
         "titulo": "Samsung Galaxy S24 Ultra S928b Dual Sim 12gb Ram 1tb 5g Cáma",
         "precio": "$8.539.560",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2889166348-samsung-galaxy-s24-ultra-s928b-dual-sim-12gb-ram-1tb-5g-cama-_JM?searchVariation=183834611920#polycard_client=search-nordic&searchVariation=183834611920&position=10&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2889166348-samsung-galaxy-s24-ultra-s928b-dual-sim-12gb-ram-1tb-5g-cama-_JM?searchVariation=183834611920#polycard_client=search-nordic&searchVariation=183834611920&position=10&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "1TB",
         "ram": "12GB",
         "color": null,
-        "timestamp": "2025-06-14T23:28:22.854139"
+        "timestamp": "2025-06-15T00:35:58.297077"
     },
     {
         "id": "Samsung_Ga_12GB_1TB",
         "titulo": "Samsung Galaxy S24 Ultra S928b Dual Sim 12gb Ram 1tb 5g Cáma",
         "precio": "$8.539.560",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2889166348-samsung-galaxy-s24-ultra-s928b-dual-sim-12gb-ram-1tb-5g-cama-_JM?searchVariation=183834611920#polycard_client=search-nordic&searchVariation=183834611920&position=10&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2889166348-samsung-galaxy-s24-ultra-s928b-dual-sim-12gb-ram-1tb-5g-cama-_JM?searchVariation=183834611920#polycard_client=search-nordic&searchVariation=183834611920&position=10&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "1TB",
         "ram": "12GB",
         "color": null,
-        "timestamp": "2025-06-14T23:28:22.854639"
+        "timestamp": "2025-06-15T00:35:58.297469"
     },
     {
         "id": "Samsung_Ga_12GB_256GB",
         "titulo": "Samsung Galaxy S24 Ultra S928b Dual Sim 12gb Ram 256gb 5g Cá",
         "precio": "$4.829.760",
-        "link": "https://articulo.mercadolibre.com.co/MCO-1597155777-samsung-galaxy-s24-ultra-s928b-dual-sim-12gb-ram-256gb-5g-ca-_JM?searchVariation=183834687420#polycard_client=search-nordic&searchVariation=183834687420&position=11&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-1597155777-samsung-galaxy-s24-ultra-s928b-dual-sim-12gb-ram-256gb-5g-ca-_JM?searchVariation=183834687420#polycard_client=search-nordic&searchVariation=183834687420&position=11&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "256GB",
         "ram": "12GB",
         "color": null,
-        "timestamp": "2025-06-14T23:28:22.855177"
+        "timestamp": "2025-06-15T00:35:58.297894"
     },
     {
         "id": "Samsung_Ga_12GB_256GB",
         "titulo": "Samsung Galaxy S24 Ultra S928b Dual Sim 12gb Ram 256gb 5g Cá",
         "precio": "$4.829.760",
-        "link": "https://articulo.mercadolibre.com.co/MCO-1597155777-samsung-galaxy-s24-ultra-s928b-dual-sim-12gb-ram-256gb-5g-ca-_JM?searchVariation=183834687420#polycard_client=search-nordic&searchVariation=183834687420&position=11&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-1597155777-samsung-galaxy-s24-ultra-s928b-dual-sim-12gb-ram-256gb-5g-ca-_JM?searchVariation=183834687420#polycard_client=search-nordic&searchVariation=183834687420&position=11&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "256GB",
         "ram": "12GB",
         "color": null,
-        "timestamp": "2025-06-14T23:28:22.855676"
+        "timestamp": "2025-06-15T00:35:58.298307"
     },
     {
         "id": "Samsung_Ga_12GB_N/A",
         "titulo": "Samsung Galaxy S24 Ultra S928b Smartphone Doble Sim 12gb Ram",
         "precio": "$4.829.760",
-        "link": "https://articulo.mercadolibre.com.co/MCO-1597155779-samsung-galaxy-s24-ultra-s928b-smartphone-doble-sim-12gb-ram-_JM?searchVariation=183834687524#polycard_client=search-nordic&searchVariation=183834687524&position=12&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-1597155779-samsung-galaxy-s24-ultra-s928b-smartphone-doble-sim-12gb-ram-_JM?searchVariation=183834687524#polycard_client=search-nordic&searchVariation=183834687524&position=12&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": null,
         "ram": "12GB",
         "color": null,
-        "timestamp": "2025-06-14T23:28:22.856192"
+        "timestamp": "2025-06-15T00:35:58.298691"
     },
     {
         "id": "Samsung_Ga_12GB_N/A",
         "titulo": "Samsung Galaxy S24 Ultra S928b Smartphone Doble Sim 12gb Ram",
         "precio": "$4.829.760",
-        "link": "https://articulo.mercadolibre.com.co/MCO-1597155779-samsung-galaxy-s24-ultra-s928b-smartphone-doble-sim-12gb-ram-_JM?searchVariation=183834687524#polycard_client=search-nordic&searchVariation=183834687524&position=12&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-1597155779-samsung-galaxy-s24-ultra-s928b-smartphone-doble-sim-12gb-ram-_JM?searchVariation=183834687524#polycard_client=search-nordic&searchVariation=183834687524&position=12&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": null,
         "ram": "12GB",
         "color": null,
-        "timestamp": "2025-06-14T23:28:22.856674"
+        "timestamp": "2025-06-15T00:35:58.299098"
     },
     {
         "id": "Samsung_Ga_N/A_256GB",
         "titulo": "Samsung Galaxy S24 Ultra 5g Dual Sim 256 Gb Titanium Violet",
         "precio": "$3.719.900",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2899628170-samsung-galaxy-s24-ultra-5g-dual-sim-256-gb-titanium-violet-_JM?searchVariation=188397487375#polycard_client=search-nordic&searchVariation=188397487375&position=13&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2899628170-samsung-galaxy-s24-ultra-5g-dual-sim-256-gb-titanium-violet-_JM?searchVariation=188397487375#polycard_client=search-nordic&searchVariation=188397487375&position=13&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "256GB",
         "ram": null,
         "color": "Violeta",
-        "timestamp": "2025-06-14T23:28:22.857189"
+        "timestamp": "2025-06-15T00:35:58.299487"
     },
     {
         "id": "Samsung_Ga_N/A_256GB",
         "titulo": "Samsung Galaxy S24 Ultra 5g Dual Sim 256 Gb Titanium Violet",
         "precio": "$3.719.900",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2899628170-samsung-galaxy-s24-ultra-5g-dual-sim-256-gb-titanium-violet-_JM?searchVariation=188397487375#polycard_client=search-nordic&searchVariation=188397487375&position=13&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2899628170-samsung-galaxy-s24-ultra-5g-dual-sim-256-gb-titanium-violet-_JM?searchVariation=188397487375#polycard_client=search-nordic&searchVariation=188397487375&position=13&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "256GB",
         "ram": null,
         "color": "Violeta",
-        "timestamp": "2025-06-14T23:28:22.857660"
+        "timestamp": "2025-06-15T00:35:58.299863"
     },
     {
         "id": "Samsung_Ga_N/A_256GB",
         "titulo": "Samsung Galaxy S24 Ultra 5g Sm-s928b/ds 12gb 256gb Dual Sim",
         "precio": "$7.299.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-1384858223-samsung-galaxy-s24-ultra-5g-sm-s928bds-12gb-256gb-dual-sim-_JM?searchVariation=181562640073#polycard_client=search-nordic&searchVariation=181562640073&position=14&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-1384858223-samsung-galaxy-s24-ultra-5g-sm-s928bds-12gb-256gb-dual-sim-_JM?searchVariation=181562640073#polycard_client=search-nordic&searchVariation=181562640073&position=14&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "256GB",
         "ram": null,
         "color": null,
-        "timestamp": "2025-06-14T23:28:22.858207"
+        "timestamp": "2025-06-15T00:35:58.300301"
     },
     {
         "id": "Samsung_Ga_N/A_256GB",
         "titulo": "Samsung Galaxy S24 Ultra 5g Sm-s928b/ds 12gb 256gb Dual Sim",
         "precio": "$7.299.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-1384858223-samsung-galaxy-s24-ultra-5g-sm-s928bds-12gb-256gb-dual-sim-_JM?searchVariation=181562640073#polycard_client=search-nordic&searchVariation=181562640073&position=14&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-1384858223-samsung-galaxy-s24-ultra-5g-sm-s928bds-12gb-256gb-dual-sim-_JM?searchVariation=181562640073#polycard_client=search-nordic&searchVariation=181562640073&position=14&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "256GB",
         "ram": null,
         "color": null,
-        "timestamp": "2025-06-14T23:28:22.858739"
+        "timestamp": "2025-06-15T00:35:58.301876"
     },
     {
         "id": "Samsung_Ga_N/A_512GB",
         "titulo": "Samsung Galaxy S24 Ultra 5g Sm-s928b/ds 12gb 512gb Dual Sim",
         "precio": "$7.299.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-1384872305-samsung-galaxy-s24-ultra-5g-sm-s928bds-12gb-512gb-dual-sim-_JM?searchVariation=179762538852#polycard_client=search-nordic&searchVariation=179762538852&position=15&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-1384872305-samsung-galaxy-s24-ultra-5g-sm-s928bds-12gb-512gb-dual-sim-_JM?searchVariation=179762538852#polycard_client=search-nordic&searchVariation=179762538852&position=15&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "512GB",
         "ram": null,
         "color": null,
-        "timestamp": "2025-06-14T23:28:22.859251"
+        "timestamp": "2025-06-15T00:35:58.302316"
     },
     {
         "id": "Samsung_Ga_N/A_512GB",
         "titulo": "Samsung Galaxy S24 Ultra 5g Sm-s928b/ds 12gb 512gb Dual Sim",
         "precio": "$7.299.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-1384872305-samsung-galaxy-s24-ultra-5g-sm-s928bds-12gb-512gb-dual-sim-_JM?searchVariation=179762538852#polycard_client=search-nordic&searchVariation=179762538852&position=15&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-1384872305-samsung-galaxy-s24-ultra-5g-sm-s928bds-12gb-512gb-dual-sim-_JM?searchVariation=179762538852#polycard_client=search-nordic&searchVariation=179762538852&position=15&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "512GB",
         "ram": null,
         "color": null,
-        "timestamp": "2025-06-14T23:28:22.859780"
+        "timestamp": "2025-06-15T00:35:58.302725"
     },
     {
         "id": "Samsung_Ga_N/A_512GB",
         "titulo": "Samsung Galaxy S24 Ultra 5g Dual Sim 512 Gb Titanium Gray",
         "precio": "$3.929.900",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2899979188-samsung-galaxy-s24-ultra-5g-dual-sim-512-gb-titanium-gray-_JM?searchVariation=188397641035#polycard_client=search-nordic&searchVariation=188397641035&position=16&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2899979188-samsung-galaxy-s24-ultra-5g-dual-sim-512-gb-titanium-gray-_JM?searchVariation=188397641035#polycard_client=search-nordic&searchVariation=188397641035&position=16&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "512GB",
         "ram": null,
         "color": "Gris",
-        "timestamp": "2025-06-14T23:28:22.860264"
+        "timestamp": "2025-06-15T00:35:58.303132"
     },
     {
         "id": "Samsung_Ga_N/A_512GB",
         "titulo": "Samsung Galaxy S24 Ultra 5g Dual Sim 512 Gb Titanium Gray",
         "precio": "$3.929.900",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2899979188-samsung-galaxy-s24-ultra-5g-dual-sim-512-gb-titanium-gray-_JM?searchVariation=188397641035#polycard_client=search-nordic&searchVariation=188397641035&position=16&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2899979188-samsung-galaxy-s24-ultra-5g-dual-sim-512-gb-titanium-gray-_JM?searchVariation=188397641035#polycard_client=search-nordic&searchVariation=188397641035&position=16&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "512GB",
         "ram": null,
         "color": "Gris",
-        "timestamp": "2025-06-14T23:28:22.860849"
+        "timestamp": "2025-06-15T00:35:58.303519"
     },
     {
         "id": "Samsung_Ga_N/A_256GB",
         "titulo": "Samsung Galaxy S24 Ultra 5g Dual Sim 256 Gb Titanium Gray",
         "precio": "$3.719.900",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2900108092-samsung-galaxy-s24-ultra-5g-dual-sim-256-gb-titanium-gray-_JM?searchVariation=188393163473#polycard_client=search-nordic&searchVariation=188393163473&position=17&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2900108092-samsung-galaxy-s24-ultra-5g-dual-sim-256-gb-titanium-gray-_JM?searchVariation=188393163473#polycard_client=search-nordic&searchVariation=188393163473&position=17&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "256GB",
         "ram": null,
         "color": "Gris",
-        "timestamp": "2025-06-14T23:28:22.861652"
+        "timestamp": "2025-06-15T00:35:58.303892"
     },
     {
         "id": "Samsung_Ga_N/A_256GB",
         "titulo": "Samsung Galaxy S24 Ultra 5g Dual Sim 256 Gb Titanium Gray",
         "precio": "$3.719.900",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2900108092-samsung-galaxy-s24-ultra-5g-dual-sim-256-gb-titanium-gray-_JM?searchVariation=188393163473#polycard_client=search-nordic&searchVariation=188393163473&position=17&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2900108092-samsung-galaxy-s24-ultra-5g-dual-sim-256-gb-titanium-gray-_JM?searchVariation=188393163473#polycard_client=search-nordic&searchVariation=188393163473&position=17&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "256GB",
         "ram": null,
         "color": "Gris",
-        "timestamp": "2025-06-14T23:28:22.862533"
+        "timestamp": "2025-06-15T00:35:58.304321"
     },
     {
         "id": "Samsung_Ga_N/A_256GB",
         "titulo": "Samsung Galaxy S24 Ultra 5g Dual Sim 256 Gb Titanium Yellow",
         "precio": "$3.719.900",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2900498024-samsung-galaxy-s24-ultra-5g-dual-sim-256-gb-titanium-yellow-_JM?searchVariation=188393398619#polycard_client=search-nordic&searchVariation=188393398619&position=18&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2900498024-samsung-galaxy-s24-ultra-5g-dual-sim-256-gb-titanium-yellow-_JM?searchVariation=188393398619#polycard_client=search-nordic&searchVariation=188393398619&position=18&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "256GB",
         "ram": null,
         "color": "Amarillo",
-        "timestamp": "2025-06-14T23:28:22.863409"
+        "timestamp": "2025-06-15T00:35:58.304750"
     },
     {
         "id": "Samsung_Ga_N/A_256GB",
         "titulo": "Samsung Galaxy S24 Ultra 5g Dual Sim 256 Gb Titanium Yellow",
         "precio": "$3.719.900",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2900498024-samsung-galaxy-s24-ultra-5g-dual-sim-256-gb-titanium-yellow-_JM?searchVariation=188393398619#polycard_client=search-nordic&searchVariation=188393398619&position=18&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2900498024-samsung-galaxy-s24-ultra-5g-dual-sim-256-gb-titanium-yellow-_JM?searchVariation=188393398619#polycard_client=search-nordic&searchVariation=188393398619&position=18&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "256GB",
         "ram": null,
         "color": "Amarillo",
-        "timestamp": "2025-06-14T23:28:22.864270"
+        "timestamp": "2025-06-15T00:35:58.305159"
     },
     {
         "id": "Samsung_Ga_N/A_512GB",
         "titulo": "Samsung Galaxy S24 Ultra 5g Dual Sim 512 Gb Titanium Yellow",
         "precio": "$3.929.900",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2899953106-samsung-galaxy-s24-ultra-5g-dual-sim-512-gb-titanium-yellow-_JM?searchVariation=188397474029#polycard_client=search-nordic&searchVariation=188397474029&position=19&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2899953106-samsung-galaxy-s24-ultra-5g-dual-sim-512-gb-titanium-yellow-_JM?searchVariation=188397474029#polycard_client=search-nordic&searchVariation=188397474029&position=19&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "512GB",
         "ram": null,
         "color": "Amarillo",
-        "timestamp": "2025-06-14T23:28:22.865142"
+        "timestamp": "2025-06-15T00:35:58.305570"
     },
     {
         "id": "Samsung_Ga_N/A_512GB",
         "titulo": "Samsung Galaxy S24 Ultra 5g Dual Sim 512 Gb Titanium Yellow",
         "precio": "$3.929.900",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2899953106-samsung-galaxy-s24-ultra-5g-dual-sim-512-gb-titanium-yellow-_JM?searchVariation=188397474029#polycard_client=search-nordic&searchVariation=188397474029&position=19&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2899953106-samsung-galaxy-s24-ultra-5g-dual-sim-512-gb-titanium-yellow-_JM?searchVariation=188397474029#polycard_client=search-nordic&searchVariation=188397474029&position=19&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "512GB",
         "ram": null,
         "color": "Amarillo",
-        "timestamp": "2025-06-14T23:28:22.866064"
+        "timestamp": "2025-06-15T00:35:58.305939"
     },
     {
         "id": "Samsung_Ga_N/A_512GB",
         "titulo": "Samsung Galaxy S24 Ultra 5g Dual Sim 512 Gb Titanium Black",
         "precio": "$3.929.900",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2900498030-samsung-galaxy-s24-ultra-5g-dual-sim-512-gb-titanium-black-_JM?searchVariation=188393398623#polycard_client=search-nordic&searchVariation=188393398623&position=20&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2900498030-samsung-galaxy-s24-ultra-5g-dual-sim-512-gb-titanium-black-_JM?searchVariation=188393398623#polycard_client=search-nordic&searchVariation=188393398623&position=20&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "512GB",
         "ram": null,
         "color": "Negro",
-        "timestamp": "2025-06-14T23:28:22.866961"
+        "timestamp": "2025-06-15T00:35:58.306337"
     },
     {
         "id": "Samsung_Ga_N/A_512GB",
         "titulo": "Samsung Galaxy S24 Ultra 5g Dual Sim 512 Gb Titanium Black",
         "precio": "$3.929.900",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2900498030-samsung-galaxy-s24-ultra-5g-dual-sim-512-gb-titanium-black-_JM?searchVariation=188393398623#polycard_client=search-nordic&searchVariation=188393398623&position=20&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2900498030-samsung-galaxy-s24-ultra-5g-dual-sim-512-gb-titanium-black-_JM?searchVariation=188393398623#polycard_client=search-nordic&searchVariation=188393398623&position=20&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "512GB",
         "ram": null,
         "color": "Negro",
-        "timestamp": "2025-06-14T23:28:22.867840"
+        "timestamp": "2025-06-15T00:35:58.306713"
     },
     {
         "id": "Samsung_Ga_N/A_512GB",
         "titulo": "Samsung Galaxy S24 Ultra 5g Dual Sim 512 Gb Titanium Violet",
         "precio": "$3.929.900",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2900498028-samsung-galaxy-s24-ultra-5g-dual-sim-512-gb-titanium-violet-_JM?searchVariation=188393398621#polycard_client=search-nordic&searchVariation=188393398621&position=21&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2900498028-samsung-galaxy-s24-ultra-5g-dual-sim-512-gb-titanium-violet-_JM?searchVariation=188393398621#polycard_client=search-nordic&searchVariation=188393398621&position=21&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "512GB",
         "ram": null,
         "color": "Violeta",
-        "timestamp": "2025-06-14T23:28:22.868760"
+        "timestamp": "2025-06-15T00:35:58.307115"
     },
     {
         "id": "Samsung_Ga_N/A_512GB",
         "titulo": "Samsung Galaxy S24 Ultra 5g Dual Sim 512 Gb Titanium Violet",
         "precio": "$3.929.900",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2900498028-samsung-galaxy-s24-ultra-5g-dual-sim-512-gb-titanium-violet-_JM?searchVariation=188393398621#polycard_client=search-nordic&searchVariation=188393398621&position=21&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2900498028-samsung-galaxy-s24-ultra-5g-dual-sim-512-gb-titanium-violet-_JM?searchVariation=188393398621#polycard_client=search-nordic&searchVariation=188393398621&position=21&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "512GB",
         "ram": null,
         "color": "Violeta",
-        "timestamp": "2025-06-14T23:28:22.869618"
+        "timestamp": "2025-06-15T00:35:58.307495"
     },
     {
         "id": "Samsung_Ga_N/A_1TB",
         "titulo": "Samsung Galaxy S24 Ultra 1tb.  8 Dias De Uso",
         "precio": "$4.800.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-1581908719-samsung-galaxy-s24-ultra-1tb-8-dias-de-uso-_JM?searchVariation=187915731503#polycard_client=search-nordic&searchVariation=187915731503&position=22&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-1581908719-samsung-galaxy-s24-ultra-1tb-8-dias-de-uso-_JM?searchVariation=187915731503#polycard_client=search-nordic&searchVariation=187915731503&position=22&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "1TB",
         "ram": null,
         "color": null,
-        "timestamp": "2025-06-14T23:28:22.870457"
+        "timestamp": "2025-06-15T00:35:58.307879"
     },
     {
         "id": "Samsung_Ga_N/A_1TB",
         "titulo": "Samsung Galaxy S24 Ultra 1tb.  8 Dias De Uso",
         "precio": "$4.800.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-1581908719-samsung-galaxy-s24-ultra-1tb-8-dias-de-uso-_JM?searchVariation=187915731503#polycard_client=search-nordic&searchVariation=187915731503&position=22&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-1581908719-samsung-galaxy-s24-ultra-1tb-8-dias-de-uso-_JM?searchVariation=187915731503#polycard_client=search-nordic&searchVariation=187915731503&position=22&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "1TB",
         "ram": null,
         "color": null,
-        "timestamp": "2025-06-14T23:28:22.871022"
+        "timestamp": "2025-06-15T00:35:58.308280"
     },
     {
         "id": "Samsung_Ga_N/A_N/A",
         "titulo": "Samsung Galaxy S24 Ultra- Potencia, De Otro Nivel",
         "precio": "$3.200.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2880715516-samsung-galaxy-s24-ultra-potencia-de-otro-nivel-_JM?searchVariation=183747594008#polycard_client=search-nordic&searchVariation=183747594008&position=23&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2880715516-samsung-galaxy-s24-ultra-potencia-de-otro-nivel-_JM?searchVariation=183747594008#polycard_client=search-nordic&searchVariation=183747594008&position=23&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": null,
         "ram": null,
         "color": null,
-        "timestamp": "2025-06-14T23:28:22.871524"
+        "timestamp": "2025-06-15T00:35:58.308670"
     },
     {
         "id": "Samsung_Ga_N/A_N/A",
         "titulo": "Samsung Galaxy S24 Ultra- Potencia, De Otro Nivel",
         "precio": "$3.200.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2880715516-samsung-galaxy-s24-ultra-potencia-de-otro-nivel-_JM?searchVariation=183747594008#polycard_client=search-nordic&searchVariation=183747594008&position=23&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2880715516-samsung-galaxy-s24-ultra-potencia-de-otro-nivel-_JM?searchVariation=183747594008#polycard_client=search-nordic&searchVariation=183747594008&position=23&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": null,
         "ram": null,
         "color": null,
-        "timestamp": "2025-06-14T23:28:22.872049"
+        "timestamp": "2025-06-15T00:35:58.309048"
     },
     {
         "id": "Celular_Sa_N/A_256GB",
         "titulo": "Celular Samsung S24 Ultra 256 Gb",
         "precio": "$3.950.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2854856256-celular-samsung-s24-ultra-256-gb-_JM?searchVariation=183431322352#polycard_client=search-nordic&searchVariation=183431322352&position=24&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2854856256-celular-samsung-s24-ultra-256-gb-_JM?searchVariation=183431322352#polycard_client=search-nordic&searchVariation=183431322352&position=24&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "256GB",
         "ram": null,
         "color": null,
-        "timestamp": "2025-06-14T23:28:22.872540"
+        "timestamp": "2025-06-15T00:35:58.309425"
     },
     {
         "id": "Celular_Sa_N/A_256GB",
         "titulo": "Celular Samsung S24 Ultra 256 Gb",
         "precio": "$3.950.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2854856256-celular-samsung-s24-ultra-256-gb-_JM?searchVariation=183431322352#polycard_client=search-nordic&searchVariation=183431322352&position=24&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2854856256-celular-samsung-s24-ultra-256-gb-_JM?searchVariation=183431322352#polycard_client=search-nordic&searchVariation=183431322352&position=24&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "256GB",
         "ram": null,
         "color": null,
-        "timestamp": "2025-06-14T23:28:22.873080"
+        "timestamp": "2025-06-15T00:35:58.309787"
     },
     {
         "id": "Samsung_Ga_N/A_256GB",
         "titulo": "Samsung Galaxy S24 Ultra 5g 256 Gbb",
         "precio": "$4.045.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-1593750169-samsung-galaxy-s24-ultra-5g-256-gbb-_JM?searchVariation=183780529086#polycard_client=search-nordic&searchVariation=183780529086&position=25&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-1593750169-samsung-galaxy-s24-ultra-5g-256-gbb-_JM?searchVariation=183780529086#polycard_client=search-nordic&searchVariation=183780529086&position=25&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "256GB",
         "ram": null,
         "color": null,
-        "timestamp": "2025-06-14T23:28:22.873580"
+        "timestamp": "2025-06-15T00:35:58.310195"
     },
     {
         "id": "Samsung_Ga_N/A_256GB",
         "titulo": "Samsung Galaxy S24 Ultra 5g 256 Gbb",
         "precio": "$4.045.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-1593750169-samsung-galaxy-s24-ultra-5g-256-gbb-_JM?searchVariation=183780529086#polycard_client=search-nordic&searchVariation=183780529086&position=25&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-1593750169-samsung-galaxy-s24-ultra-5g-256-gbb-_JM?searchVariation=183780529086#polycard_client=search-nordic&searchVariation=183780529086&position=25&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "256GB",
         "ram": null,
         "color": null,
-        "timestamp": "2025-06-14T23:28:22.874112"
+        "timestamp": "2025-06-15T00:35:58.310564"
     },
     {
         "id": "Samsung_Ga_N/A_256GB",
         "titulo": "Samsung Galaxy S24 Ultra 12gb 256gb Dual Sim Violeta",
         "precio": "$3.890.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2852317638-samsung-galaxy-s24-ultra-12gb-256gb-dual-sim-violeta-_JM?searchVariation=183398645940#polycard_client=search-nordic&searchVariation=183398645940&position=26&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2852317638-samsung-galaxy-s24-ultra-12gb-256gb-dual-sim-violeta-_JM?searchVariation=183398645940#polycard_client=search-nordic&searchVariation=183398645940&position=26&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "256GB",
         "ram": null,
         "color": "Violeta",
-        "timestamp": "2025-06-14T23:28:22.874614"
+        "timestamp": "2025-06-15T00:35:58.310934"
     },
     {
         "id": "Samsung_Ga_N/A_256GB",
         "titulo": "Samsung Galaxy S24 Ultra 12gb 256gb Dual Sim Violeta",
         "precio": "$3.890.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2852317638-samsung-galaxy-s24-ultra-12gb-256gb-dual-sim-violeta-_JM?searchVariation=183398645940#polycard_client=search-nordic&searchVariation=183398645940&position=26&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2852317638-samsung-galaxy-s24-ultra-12gb-256gb-dual-sim-violeta-_JM?searchVariation=183398645940#polycard_client=search-nordic&searchVariation=183398645940&position=26&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "256GB",
         "ram": null,
         "color": "Violeta",
-        "timestamp": "2025-06-14T23:28:22.875160"
+        "timestamp": "2025-06-15T00:35:58.311329"
     },
     {
         "id": "Samsung_Ga_12GB_512GB",
         "titulo": "Samsung Galaxy S24 Ultra 5g 512 Gb Titanium Gray 12 Gb Ram",
         "precio": "$4.250.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2877351100-samsung-galaxy-s24-ultra-5g-512-gb-titanium-gray-12-gb-ram-_JM?searchVariation=183705404142#polycard_client=search-nordic&searchVariation=183705404142&position=27&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2877351100-samsung-galaxy-s24-ultra-5g-512-gb-titanium-gray-12-gb-ram-_JM?searchVariation=183705404142#polycard_client=search-nordic&searchVariation=183705404142&position=27&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "512GB",
         "ram": "12GB",
         "color": "Gris",
-        "timestamp": "2025-06-14T23:28:22.875651"
+        "timestamp": "2025-06-15T00:35:58.311713"
     },
     {
         "id": "Samsung_Ga_12GB_512GB",
         "titulo": "Samsung Galaxy S24 Ultra 5g 512 Gb Titanium Gray 12 Gb Ram",
         "precio": "$4.250.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2877351100-samsung-galaxy-s24-ultra-5g-512-gb-titanium-gray-12-gb-ram-_JM?searchVariation=183705404142#polycard_client=search-nordic&searchVariation=183705404142&position=27&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2877351100-samsung-galaxy-s24-ultra-5g-512-gb-titanium-gray-12-gb-ram-_JM?searchVariation=183705404142#polycard_client=search-nordic&searchVariation=183705404142&position=27&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "512GB",
         "ram": "12GB",
         "color": "Gris",
-        "timestamp": "2025-06-14T23:28:22.876190"
+        "timestamp": "2025-06-15T00:35:58.314551"
     },
     {
         "id": "Samsung_Ga_12GB_256GB",
         "titulo": "Samsung Galaxy S24 Ultra 5g Dual Sim 256gb Violeta 12gb Ram",
         "precio": "$4.100.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-1552975647-samsung-galaxy-s24-ultra-5g-dual-sim-256gb-violeta-12gb-ram-_JM?searchVariation=187160564161#polycard_client=search-nordic&searchVariation=187160564161&position=28&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-1552975647-samsung-galaxy-s24-ultra-5g-dual-sim-256gb-violeta-12gb-ram-_JM?searchVariation=187160564161#polycard_client=search-nordic&searchVariation=187160564161&position=28&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "256GB",
         "ram": "12GB",
         "color": "Violeta",
-        "timestamp": "2025-06-14T23:28:22.876709"
+        "timestamp": "2025-06-15T00:35:58.315001"
     },
     {
         "id": "Samsung_Ga_12GB_256GB",
         "titulo": "Samsung Galaxy S24 Ultra 5g Dual Sim 256gb Violeta 12gb Ram",
         "precio": "$4.100.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-1552975647-samsung-galaxy-s24-ultra-5g-dual-sim-256gb-violeta-12gb-ram-_JM?searchVariation=187160564161#polycard_client=search-nordic&searchVariation=187160564161&position=28&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-1552975647-samsung-galaxy-s24-ultra-5g-dual-sim-256gb-violeta-12gb-ram-_JM?searchVariation=187160564161#polycard_client=search-nordic&searchVariation=187160564161&position=28&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "256GB",
         "ram": "12GB",
         "color": "Violeta",
-        "timestamp": "2025-06-14T23:28:22.877204"
+        "timestamp": "2025-06-15T00:35:58.315393"
     },
     {
         "id": "Samsung_Ga_N/A_256GB",
         "titulo": "Samsung Galaxy S24 Ultra Titanium Black 256 Gb Grado A",
         "precio": "$3.559.200",
-        "link": "https://articulo.mercadolibre.com.co/MCO-1598331747-samsung-galaxy-s24-ultra-titanium-black-256-gb-grado-a-_JM?searchVariation=183851051970#polycard_client=search-nordic&searchVariation=183851051970&position=29&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-1598331747-samsung-galaxy-s24-ultra-titanium-black-256-gb-grado-a-_JM?searchVariation=183851051970#polycard_client=search-nordic&searchVariation=183851051970&position=29&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "256GB",
         "ram": null,
         "color": "Negro",
-        "timestamp": "2025-06-14T23:28:22.877725"
+        "timestamp": "2025-06-15T00:35:58.315785"
     },
     {
         "id": "Samsung_Ga_N/A_256GB",
         "titulo": "Samsung Galaxy S24 Ultra Titanium Black 256 Gb Grado A",
         "precio": "$3.559.200",
-        "link": "https://articulo.mercadolibre.com.co/MCO-1598331747-samsung-galaxy-s24-ultra-titanium-black-256-gb-grado-a-_JM?searchVariation=183851051970#polycard_client=search-nordic&searchVariation=183851051970&position=29&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-1598331747-samsung-galaxy-s24-ultra-titanium-black-256-gb-grado-a-_JM?searchVariation=183851051970#polycard_client=search-nordic&searchVariation=183851051970&position=29&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "256GB",
         "ram": null,
         "color": "Negro",
-        "timestamp": "2025-06-14T23:28:22.878236"
+        "timestamp": "2025-06-15T00:35:58.316207"
     },
     {
         "id": "Samsung_S2_N/A_256GB",
         "titulo": "Samsung S24 Ultra Dual Sim 256 Gb Titanio Violeta, Negociabl",
         "precio": "$3.599.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2890206258-samsung-s24-ultra-dual-sim-256-gb-titanio-violeta-negociabl-_JM?searchVariation=188306838775#polycard_client=search-nordic&searchVariation=188306838775&position=30&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2890206258-samsung-s24-ultra-dual-sim-256-gb-titanio-violeta-negociabl-_JM?searchVariation=188306838775#polycard_client=search-nordic&searchVariation=188306838775&position=30&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "256GB",
         "ram": null,
         "color": "Violeta",
-        "timestamp": "2025-06-14T23:28:22.878774"
+        "timestamp": "2025-06-15T00:35:58.316604"
     },
     {
         "id": "Samsung_S2_N/A_256GB",
         "titulo": "Samsung S24 Ultra Dual Sim 256 Gb Titanio Violeta, Negociabl",
         "precio": "$3.599.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2890206258-samsung-s24-ultra-dual-sim-256-gb-titanio-violeta-negociabl-_JM?searchVariation=188306838775#polycard_client=search-nordic&searchVariation=188306838775&position=30&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2890206258-samsung-s24-ultra-dual-sim-256-gb-titanio-violeta-negociabl-_JM?searchVariation=188306838775#polycard_client=search-nordic&searchVariation=188306838775&position=30&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "256GB",
         "ram": null,
         "color": "Violeta",
-        "timestamp": "2025-06-14T23:28:22.879347"
+        "timestamp": "2025-06-15T00:35:58.316997"
     },
     {
         "id": "Samsung_Ga_12GB_256GB",
         "titulo": "Samsung Galaxy S24 Ultra 256gb 12gb Ram Titanium Black",
         "precio": "$3.199.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2889235020-samsung-galaxy-s24-ultra-256gb-12gb-ram-titanium-black-_JM?searchVariation=183835575344#polycard_client=search-nordic&searchVariation=183835575344&position=31&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2889235020-samsung-galaxy-s24-ultra-256gb-12gb-ram-titanium-black-_JM?searchVariation=183835575344#polycard_client=search-nordic&searchVariation=183835575344&position=31&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "256GB",
         "ram": "12GB",
         "color": "Negro",
-        "timestamp": "2025-06-14T23:28:22.879911"
+        "timestamp": "2025-06-15T00:35:58.317394"
     },
     {
         "id": "Samsung_Ga_12GB_256GB",
         "titulo": "Samsung Galaxy S24 Ultra 256gb 12gb Ram Titanium Black",
         "precio": "$3.199.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2889235020-samsung-galaxy-s24-ultra-256gb-12gb-ram-titanium-black-_JM?searchVariation=183835575344#polycard_client=search-nordic&searchVariation=183835575344&position=31&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2889235020-samsung-galaxy-s24-ultra-256gb-12gb-ram-titanium-black-_JM?searchVariation=183835575344#polycard_client=search-nordic&searchVariation=183835575344&position=31&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "256GB",
         "ram": "12GB",
         "color": "Negro",
-        "timestamp": "2025-06-14T23:28:22.880401"
+        "timestamp": "2025-06-15T00:35:58.317775"
     },
     {
         "id": "Celular_Sa_N/A_256GB",
         "titulo": "Celular Samsung Galaxy S24 Ultra 12gb 256gb Violeta Titanium",
         "precio": "$4.000.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2868826256-celular-samsung-galaxy-s24-ultra-12gb-256gb-violeta-titanium-_JM?searchVariation=187943096543#polycard_client=search-nordic&searchVariation=187943096543&position=32&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2868826256-celular-samsung-galaxy-s24-ultra-12gb-256gb-violeta-titanium-_JM?searchVariation=187943096543#polycard_client=search-nordic&searchVariation=187943096543&position=32&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "256GB",
         "ram": null,
         "color": "Violeta",
-        "timestamp": "2025-06-14T23:28:22.880922"
+        "timestamp": "2025-06-15T00:35:58.318177"
     },
     {
         "id": "Celular_Sa_N/A_256GB",
         "titulo": "Celular Samsung Galaxy S24 Ultra 12gb 256gb Violeta Titanium",
         "precio": "$4.000.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2868826256-celular-samsung-galaxy-s24-ultra-12gb-256gb-violeta-titanium-_JM?searchVariation=187943096543#polycard_client=search-nordic&searchVariation=187943096543&position=32&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2868826256-celular-samsung-galaxy-s24-ultra-12gb-256gb-violeta-titanium-_JM?searchVariation=187943096543#polycard_client=search-nordic&searchVariation=187943096543&position=32&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "256GB",
         "ram": null,
         "color": "Violeta",
-        "timestamp": "2025-06-14T23:28:22.881394"
+        "timestamp": "2025-06-15T00:35:58.318560"
     },
     {
         "id": "Samsung_Ga_N/A_256GB",
         "titulo": "Samsung Galaxy S24 Ultra 5g Dual Sim 256 Gb Titanium Black",
         "precio": "$3.650.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-1581845121-samsung-galaxy-s24-ultra-5g-dual-sim-256-gb-titanium-black-_JM?searchVariation=187913346643#polycard_client=search-nordic&searchVariation=187913346643&position=33&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-1581845121-samsung-galaxy-s24-ultra-5g-dual-sim-256-gb-titanium-black-_JM?searchVariation=187913346643#polycard_client=search-nordic&searchVariation=187913346643&position=33&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "256GB",
         "ram": null,
         "color": "Negro",
-        "timestamp": "2025-06-14T23:28:22.881922"
+        "timestamp": "2025-06-15T00:35:58.318952"
     },
     {
         "id": "Samsung_Ga_N/A_256GB",
         "titulo": "Samsung Galaxy S24 Ultra 5g Dual Sim 256 Gb Titanium Black",
         "precio": "$3.650.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-1581845121-samsung-galaxy-s24-ultra-5g-dual-sim-256-gb-titanium-black-_JM?searchVariation=187913346643#polycard_client=search-nordic&searchVariation=187913346643&position=33&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-1581845121-samsung-galaxy-s24-ultra-5g-dual-sim-256-gb-titanium-black-_JM?searchVariation=187913346643#polycard_client=search-nordic&searchVariation=187913346643&position=33&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "256GB",
         "ram": null,
         "color": "Negro",
-        "timestamp": "2025-06-14T23:28:22.882407"
+        "timestamp": "2025-06-15T00:35:58.319347"
     },
     {
         "id": "Samsung_Ga_N/A_256GB",
         "titulo": "Samsung Galaxy S24 Ultra De 256gb En Caja Como Nuevo",
         "precio": "$3.700.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-1588528261-samsung-galaxy-s24-ultra-de-256gb-en-caja-como-nuevo-_JM?searchVariation=188094198355#polycard_client=search-nordic&searchVariation=188094198355&position=34&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-1588528261-samsung-galaxy-s24-ultra-de-256gb-en-caja-como-nuevo-_JM?searchVariation=188094198355#polycard_client=search-nordic&searchVariation=188094198355&position=34&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "256GB",
         "ram": null,
         "color": null,
-        "timestamp": "2025-06-14T23:28:22.882933"
+        "timestamp": "2025-06-15T00:35:58.319723"
     },
     {
         "id": "Samsung_Ga_N/A_256GB",
         "titulo": "Samsung Galaxy S24 Ultra De 256gb En Caja Como Nuevo",
         "precio": "$3.700.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-1588528261-samsung-galaxy-s24-ultra-de-256gb-en-caja-como-nuevo-_JM?searchVariation=188094198355#polycard_client=search-nordic&searchVariation=188094198355&position=34&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-1588528261-samsung-galaxy-s24-ultra-de-256gb-en-caja-como-nuevo-_JM?searchVariation=188094198355#polycard_client=search-nordic&searchVariation=188094198355&position=34&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "256GB",
         "ram": null,
         "color": null,
-        "timestamp": "2025-06-14T23:28:22.883423"
+        "timestamp": "2025-06-15T00:35:58.320124"
     },
     {
         "id": "Samsung_Ga_N/A_N/A",
         "titulo": "Samsung Galaxy S24 Ultra",
         "precio": "$4.299.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-1582800289-samsung-galaxy-s24-ultra-_JM?searchVariation=187945312641#polycard_client=search-nordic&searchVariation=187945312641&position=35&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-1582800289-samsung-galaxy-s24-ultra-_JM?searchVariation=187945312641#polycard_client=search-nordic&searchVariation=187945312641&position=35&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": null,
         "ram": null,
         "color": null,
-        "timestamp": "2025-06-14T23:28:22.883950"
+        "timestamp": "2025-06-15T00:35:58.320513"
     },
     {
         "id": "Samsung_Ga_N/A_N/A",
         "titulo": "Samsung Galaxy S24 Ultra",
         "precio": "$4.299.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-1582800289-samsung-galaxy-s24-ultra-_JM?searchVariation=187945312641#polycard_client=search-nordic&searchVariation=187945312641&position=35&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-1582800289-samsung-galaxy-s24-ultra-_JM?searchVariation=187945312641#polycard_client=search-nordic&searchVariation=187945312641&position=35&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": null,
         "ram": null,
         "color": null,
-        "timestamp": "2025-06-14T23:28:22.884445"
+        "timestamp": "2025-06-15T00:35:58.320893"
     },
     {
         "id": "Galaxy_24__N/A_256GB",
         "titulo": "Galaxy 24 Ultra 256gb",
         "precio": "$4.000.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2897112496-galaxy-24-ultra-256gb-_JM?searchVariation=183886713262#polycard_client=search-nordic&searchVariation=183886713262&position=36&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2897112496-galaxy-24-ultra-256gb-_JM?searchVariation=183886713262#polycard_client=search-nordic&searchVariation=183886713262&position=36&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "256GB",
         "ram": null,
         "color": null,
-        "timestamp": "2025-06-14T23:28:22.884966"
+        "timestamp": "2025-06-15T00:35:58.321322"
     },
     {
         "id": "Galaxy_24__N/A_256GB",
         "titulo": "Galaxy 24 Ultra 256gb",
         "precio": "$4.000.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2897112496-galaxy-24-ultra-256gb-_JM?searchVariation=183886713262#polycard_client=search-nordic&searchVariation=183886713262&position=36&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2897112496-galaxy-24-ultra-256gb-_JM?searchVariation=183886713262#polycard_client=search-nordic&searchVariation=183886713262&position=36&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "256GB",
         "ram": null,
         "color": null,
-        "timestamp": "2025-06-14T23:28:22.885451"
+        "timestamp": "2025-06-15T00:35:58.321709"
     },
     {
         "id": "Celular_Sa_N/A_N/A",
         "titulo": "Celular Samsung S24 Ultra (dual Esim)",
         "precio": "$3.700.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-1571262091-celular-samsung-s24-ultra-dual-esim-_JM?searchVariation=187589208567#polycard_client=search-nordic&searchVariation=187589208567&position=37&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-1571262091-celular-samsung-s24-ultra-dual-esim-_JM?searchVariation=187589208567#polycard_client=search-nordic&searchVariation=187589208567&position=37&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": null,
         "ram": null,
         "color": null,
-        "timestamp": "2025-06-14T23:28:22.885954"
+        "timestamp": "2025-06-15T00:35:58.322109"
     },
     {
         "id": "Celular_Sa_N/A_N/A",
         "titulo": "Celular Samsung S24 Ultra (dual Esim)",
         "precio": "$3.700.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-1571262091-celular-samsung-s24-ultra-dual-esim-_JM?searchVariation=187589208567#polycard_client=search-nordic&searchVariation=187589208567&position=37&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-1571262091-celular-samsung-s24-ultra-dual-esim-_JM?searchVariation=187589208567#polycard_client=search-nordic&searchVariation=187589208567&position=37&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": null,
         "ram": null,
         "color": null,
-        "timestamp": "2025-06-14T23:28:22.886454"
+        "timestamp": "2025-06-15T00:35:58.322513"
     },
     {
         "id": "Samsung_Ga_N/A_N/A",
         "titulo": "Samsung Galaxi S24 Ultra Poco Usos Como Nuevo Único Dueño",
         "precio": "$3.600.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2866193512-samsung-galaxi-s24-ultra-poco-usos-como-nuevo-unico-dueno-_JM?searchVariation=183572867376#polycard_client=search-nordic&searchVariation=183572867376&position=38&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2866193512-samsung-galaxi-s24-ultra-poco-usos-como-nuevo-unico-dueno-_JM?searchVariation=183572867376#polycard_client=search-nordic&searchVariation=183572867376&position=38&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": null,
         "ram": null,
         "color": null,
-        "timestamp": "2025-06-14T23:28:22.886967"
+        "timestamp": "2025-06-15T00:35:58.322903"
     },
     {
         "id": "Samsung_Ga_N/A_N/A",
         "titulo": "Samsung Galaxi S24 Ultra Poco Usos Como Nuevo Único Dueño",
         "precio": "$3.600.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2866193512-samsung-galaxi-s24-ultra-poco-usos-como-nuevo-unico-dueno-_JM?searchVariation=183572867376#polycard_client=search-nordic&searchVariation=183572867376&position=38&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2866193512-samsung-galaxi-s24-ultra-poco-usos-como-nuevo-unico-dueno-_JM?searchVariation=183572867376#polycard_client=search-nordic&searchVariation=183572867376&position=38&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": null,
         "ram": null,
         "color": null,
-        "timestamp": "2025-06-14T23:28:22.887441"
+        "timestamp": "2025-06-15T00:35:58.323295"
     },
     {
         "id": "Samsung_Ga_12GB_256GB",
         "titulo": "Samsung Galaxy S24 Ultra Dual Sim 256gb 12gb Ram Negro",
         "precio": "$3.300.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2892621616-samsung-galaxy-s24-ultra-dual-sim-256gb-12gb-ram-negro-_JM?searchVariation=188337024331#polycard_client=search-nordic&searchVariation=188337024331&position=39&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2892621616-samsung-galaxy-s24-ultra-dual-sim-256gb-12gb-ram-negro-_JM?searchVariation=188337024331#polycard_client=search-nordic&searchVariation=188337024331&position=39&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "256GB",
         "ram": "12GB",
         "color": "Negro",
-        "timestamp": "2025-06-14T23:28:22.887946"
+        "timestamp": "2025-06-15T00:35:58.323676"
     },
     {
         "id": "Samsung_Ga_12GB_256GB",
         "titulo": "Samsung Galaxy S24 Ultra Dual Sim 256gb 12gb Ram Negro",
         "precio": "$3.300.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2892621616-samsung-galaxy-s24-ultra-dual-sim-256gb-12gb-ram-negro-_JM?searchVariation=188337024331#polycard_client=search-nordic&searchVariation=188337024331&position=39&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2892621616-samsung-galaxy-s24-ultra-dual-sim-256gb-12gb-ram-negro-_JM?searchVariation=188337024331#polycard_client=search-nordic&searchVariation=188337024331&position=39&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "256GB",
         "ram": "12GB",
         "color": "Negro",
-        "timestamp": "2025-06-14T23:28:22.888424"
+        "timestamp": "2025-06-15T00:35:58.324074"
     },
     {
         "id": "Samsung_Ga_12GB_256GB",
         "titulo": "Samsung Galaxy S24 Ultra 256gb 12gb Ram Dual Sim",
         "precio": "$3.800.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2871013408-samsung-galaxy-s24-ultra-256gb-12gb-ram-dual-sim-_JM?searchVariation=183633271564#polycard_client=search-nordic&searchVariation=183633271564&position=40&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2871013408-samsung-galaxy-s24-ultra-256gb-12gb-ram-dual-sim-_JM?searchVariation=183633271564#polycard_client=search-nordic&searchVariation=183633271564&position=40&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "256GB",
         "ram": "12GB",
         "color": null,
-        "timestamp": "2025-06-14T23:28:22.888963"
+        "timestamp": "2025-06-15T00:35:58.324466"
     },
     {
         "id": "Samsung_Ga_12GB_256GB",
         "titulo": "Samsung Galaxy S24 Ultra 256gb 12gb Ram Dual Sim",
         "precio": "$3.800.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-2871013408-samsung-galaxy-s24-ultra-256gb-12gb-ram-dual-sim-_JM?searchVariation=183633271564#polycard_client=search-nordic&searchVariation=183633271564&position=40&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-2871013408-samsung-galaxy-s24-ultra-256gb-12gb-ram-dual-sim-_JM?searchVariation=183633271564#polycard_client=search-nordic&searchVariation=183633271564&position=40&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "256GB",
         "ram": "12GB",
         "color": null,
-        "timestamp": "2025-06-14T23:28:22.889441"
+        "timestamp": "2025-06-15T00:35:58.327583"
     },
     {
         "id": "Samsung_S2_N/A_1TB",
         "titulo": "Samsung S24 Ultra 1 Tb",
         "precio": "$4.500.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-1600458915-samsung-s24-ultra-1-tb-_JM?searchVariation=188374696403#polycard_client=search-nordic&searchVariation=188374696403&position=41&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-1600458915-samsung-s24-ultra-1-tb-_JM?searchVariation=188374696403#polycard_client=search-nordic&searchVariation=188374696403&position=41&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "1TB",
         "ram": null,
         "color": null,
-        "timestamp": "2025-06-14T23:28:22.889951"
+        "timestamp": "2025-06-15T00:35:58.328003"
     },
     {
         "id": "Samsung_S2_N/A_1TB",
         "titulo": "Samsung S24 Ultra 1 Tb",
         "precio": "$4.500.000",
-        "link": "https://articulo.mercadolibre.com.co/MCO-1600458915-samsung-s24-ultra-1-tb-_JM?searchVariation=188374696403#polycard_client=search-nordic&searchVariation=188374696403&position=41&search_layout=stack&type=item&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16",
+        "link": "https://articulo.mercadolibre.com.co/MCO-1600458915-samsung-s24-ultra-1-tb-_JM?searchVariation=188374696403#polycard_client=search-nordic&searchVariation=188374696403&position=41&search_layout=stack&type=item&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "1TB",
         "ram": null,
         "color": null,
-        "timestamp": "2025-06-14T23:28:22.890436"
+        "timestamp": "2025-06-15T00:35:58.328424"
     },
     {
         "id": "Celular_Sa_N/A_N/A",
         "titulo": "Celular Samsung S24 Ultra (dual Esim)",
         "precio": "$6.700.000",
-        "link": "https://www.mercadolibre.com.co/celular-samsung-s24-ultra-dual-esim/p/MCO37974940#polycard_client=search-nordic&searchVariation=MCO37974940&position=42&search_layout=stack&type=product&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16&wid=&sid=search",
+        "link": "https://www.mercadolibre.com.co/celular-samsung-s24-ultra-dual-esim/p/MCO37974940#polycard_client=search-nordic&searchVariation=MCO37974940&position=43&search_layout=stack&type=product&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0&wid=&sid=search",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": null,
         "ram": null,
         "color": null,
-        "timestamp": "2025-06-14T23:28:22.890896"
+        "timestamp": "2025-06-15T00:35:58.328766"
     },
     {
         "id": "Celular_Sa_N/A_N/A",
         "titulo": "Celular Samsung S24 Ultra (dual Esim)",
         "precio": "$6.700.000",
-        "link": "https://www.mercadolibre.com.co/celular-samsung-s24-ultra-dual-esim/p/MCO37974940#polycard_client=search-nordic&searchVariation=MCO37974940&position=42&search_layout=stack&type=product&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16&wid=&sid=search",
+        "link": "https://www.mercadolibre.com.co/celular-samsung-s24-ultra-dual-esim/p/MCO37974940#polycard_client=search-nordic&searchVariation=MCO37974940&position=43&search_layout=stack&type=product&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0&wid=&sid=search",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": null,
         "ram": null,
         "color": null,
-        "timestamp": "2025-06-14T23:28:22.891316"
+        "timestamp": "2025-06-15T00:35:58.329124"
     },
     {
         "id": "Samsung_Ga_12GB_512GB",
         "titulo": "Samsung Galaxy S24 Ultra 5G Dual SIM 512 GB titanium black 12 GB RAM - Excelente (Reacondicionado)",
         "precio": "$4.000.000",
-        "link": "https://www.mercadolibre.com.co/samsung-galaxy-s24-ultra-5g-dual-sim-512-gb-titanium-black-12-gb-ram-excelente-reacondicionado/p/MCO2000058697#polycard_client=search-nordic&searchVariation=MCO2000058697&position=46&search_layout=stack&type=product&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16&wid=&sid=search",
+        "link": "https://www.mercadolibre.com.co/samsung-galaxy-s24-ultra-5g-dual-sim-512-gb-titanium-black-12-gb-ram-excelente-reacondicionado/p/MCO2000058697#polycard_client=search-nordic&searchVariation=MCO2000058697&position=44&search_layout=stack&type=product&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0&wid=&sid=search",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "512GB",
         "ram": "12GB",
         "color": "Negro",
-        "timestamp": "2025-06-14T23:28:22.891767"
+        "timestamp": "2025-06-15T00:35:58.329456"
     },
     {
         "id": "Samsung_Ga_12GB_512GB",
         "titulo": "Samsung Galaxy S24 Ultra 5G Dual SIM 512 GB titanium black 12 GB RAM - Excelente (Reacondicionado)",
         "precio": "$4.000.000",
-        "link": "https://www.mercadolibre.com.co/samsung-galaxy-s24-ultra-5g-dual-sim-512-gb-titanium-black-12-gb-ram-excelente-reacondicionado/p/MCO2000058697#polycard_client=search-nordic&searchVariation=MCO2000058697&position=46&search_layout=stack&type=product&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16&wid=&sid=search",
+        "link": "https://www.mercadolibre.com.co/samsung-galaxy-s24-ultra-5g-dual-sim-512-gb-titanium-black-12-gb-ram-excelente-reacondicionado/p/MCO2000058697#polycard_client=search-nordic&searchVariation=MCO2000058697&position=44&search_layout=stack&type=product&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0&wid=&sid=search",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "512GB",
         "ram": "12GB",
         "color": "Negro",
-        "timestamp": "2025-06-14T23:28:22.892189"
+        "timestamp": "2025-06-15T00:35:58.329777"
     },
     {
         "id": "Celular_Sa_N/A_256GB",
         "titulo": "Celular Samsung Galaxy S24 Ultra 12gb 256gb Violeta Titanium",
         "precio": "$3.756.000",
-        "link": "https://www.mercadolibre.com.co/celular-samsung-galaxy-s24-ultra-12gb-256gb-violeta-titanium/p/MCO46080442#polycard_client=search-nordic&searchVariation=MCO46080442&position=41&search_layout=stack&type=product&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16&wid=&sid=search",
+        "link": "https://www.mercadolibre.com.co/celular-samsung-galaxy-s24-ultra-12gb-256gb-violeta-titanium/p/MCO46080442#polycard_client=search-nordic&searchVariation=MCO46080442&position=45&search_layout=stack&type=product&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0&wid=&sid=search",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "256GB",
         "ram": null,
         "color": "Violeta",
-        "timestamp": "2025-06-14T23:28:22.892623"
+        "timestamp": "2025-06-15T00:35:58.330131"
     },
     {
         "id": "Celular_Sa_N/A_256GB",
         "titulo": "Celular Samsung Galaxy S24 Ultra 12gb 256gb Violeta Titanium",
         "precio": "$3.756.000",
-        "link": "https://www.mercadolibre.com.co/celular-samsung-galaxy-s24-ultra-12gb-256gb-violeta-titanium/p/MCO46080442#polycard_client=search-nordic&searchVariation=MCO46080442&position=41&search_layout=stack&type=product&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16&wid=&sid=search",
+        "link": "https://www.mercadolibre.com.co/celular-samsung-galaxy-s24-ultra-12gb-256gb-violeta-titanium/p/MCO46080442#polycard_client=search-nordic&searchVariation=MCO46080442&position=45&search_layout=stack&type=product&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0&wid=&sid=search",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "256GB",
         "ram": null,
         "color": "Violeta",
-        "timestamp": "2025-06-14T23:28:22.893072"
+        "timestamp": "2025-06-15T00:35:58.330491"
     },
     {
         "id": "Samsung_Ga_12GB_1TB",
         "titulo": "Samsung Galaxy S24 Ultra 5G Dual SIM 1 TB titanium green 12 GB RAM",
         "precio": "$7.700.000",
-        "link": "https://www.mercadolibre.com.co/samsung-galaxy-s24-ultra-5g-dual-sim-1-tb-titanium-green-12-gb-ram/p/MCO29893921#polycard_client=search-nordic&searchVariation=MCO29893921&position=43&search_layout=stack&type=product&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16&wid=&sid=search",
+        "link": "https://www.mercadolibre.com.co/samsung-galaxy-s24-ultra-5g-dual-sim-1-tb-titanium-green-12-gb-ram/p/MCO29893921#polycard_client=search-nordic&searchVariation=MCO29893921&position=46&search_layout=stack&type=product&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0&wid=&sid=search",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "1TB",
         "ram": "12GB",
         "color": null,
-        "timestamp": "2025-06-14T23:28:22.893565"
+        "timestamp": "2025-06-15T00:35:58.330900"
     },
     {
         "id": "Samsung_Ga_12GB_1TB",
         "titulo": "Samsung Galaxy S24 Ultra 5G Dual SIM 1 TB titanium green 12 GB RAM",
         "precio": "$7.700.000",
-        "link": "https://www.mercadolibre.com.co/samsung-galaxy-s24-ultra-5g-dual-sim-1-tb-titanium-green-12-gb-ram/p/MCO29893921#polycard_client=search-nordic&searchVariation=MCO29893921&position=43&search_layout=stack&type=product&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16&wid=&sid=search",
+        "link": "https://www.mercadolibre.com.co/samsung-galaxy-s24-ultra-5g-dual-sim-1-tb-titanium-green-12-gb-ram/p/MCO29893921#polycard_client=search-nordic&searchVariation=MCO29893921&position=46&search_layout=stack&type=product&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0&wid=&sid=search",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "1TB",
         "ram": "12GB",
         "color": null,
-        "timestamp": "2025-06-14T23:28:22.894077"
+        "timestamp": "2025-06-15T00:35:58.331326"
     },
     {
         "id": "Samsung_Ga_12GB_256GB",
         "titulo": "Samsung Galaxy S24 Ultra Galaxy Ai 6.8 pulgadas 12 GB RAM 256 GB Titanio Violeta",
         "precio": "$4.200.000",
-        "link": "https://www.mercadolibre.com.co/samsung-galaxy-s24-ultra-galaxy-ai-68-pulgadas-12-gb-ram-256-gb-titanio-violeta/p/MCO29907046#polycard_client=search-nordic&searchVariation=MCO29907046&position=39&search_layout=stack&type=product&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16&wid=&sid=search",
+        "link": "https://www.mercadolibre.com.co/samsung-galaxy-s24-ultra-galaxy-ai-68-pulgadas-12-gb-ram-256-gb-titanio-violeta/p/MCO29907046#polycard_client=search-nordic&searchVariation=MCO29907046&position=38&search_layout=stack&type=product&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0&wid=&sid=search",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "256GB",
         "ram": "12GB",
         "color": "Violeta",
-        "timestamp": "2025-06-14T23:28:22.894505"
+        "timestamp": "2025-06-15T00:35:58.331661"
     },
     {
         "id": "Samsung_Ga_12GB_256GB",
         "titulo": "Samsung Galaxy S24 Ultra Galaxy Ai 6.8 pulgadas 12 GB RAM 256 GB Titanio Violeta",
         "precio": "$4.200.000",
-        "link": "https://www.mercadolibre.com.co/samsung-galaxy-s24-ultra-galaxy-ai-68-pulgadas-12-gb-ram-256-gb-titanio-violeta/p/MCO29907046#polycard_client=search-nordic&searchVariation=MCO29907046&position=39&search_layout=stack&type=product&tracking_id=123c9736-d0c4-462e-a3c9-5ea1fab43e16&wid=&sid=search",
+        "link": "https://www.mercadolibre.com.co/samsung-galaxy-s24-ultra-galaxy-ai-68-pulgadas-12-gb-ram-256-gb-titanio-violeta/p/MCO29907046#polycard_client=search-nordic&searchVariation=MCO29907046&position=38&search_layout=stack&type=product&tracking_id=e8af4c3e-2cf8-4952-a921-b28b36eda8a0&wid=&sid=search",
         "imagen": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "método": "Scrapy",
         "capacidad": "256GB",
         "ram": "12GB",
         "color": "Violeta",
-        "timestamp": "2025-06-14T23:28:22.894947"
+        "timestamp": "2025-06-15T00:35:58.331978"
     }
 ]
