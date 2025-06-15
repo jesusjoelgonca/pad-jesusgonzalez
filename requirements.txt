@@ -6,6 +6,9 @@ pandas>=2.0.0
 requests>=2.31.0
 lxml>=4.9.0
 
+# Para Selenium WebDriver
+webdriver-manager>=4.0.0
+
 # Para visualización
 matplotlib>=3.7.0
 plotly>=5.17.0
