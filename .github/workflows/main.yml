@@ -5,6 +5,10 @@ on:
     branches: [ main ]
   workflow_dispatch:    
 
+permissions:
+  contents: write
+  actions: read
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -38,12 +42,6 @@ jobs:
       - name: Paso 6 - Verificar archivos generados
         run: |
           echo "=== Archivos CSV generados ==="
-          ls -la actividades/actividad1/static/csv/ || echo "No hay archivos CSV"
-          
-          echo "=== Archivos DB generados ==="
-          ls -la actividades/actividad1/static/db/ || echo "No hay archivos DB"
-          
-          echo "=== Archivos Data generados ==="
           ls -la actividades/actividad1/data/ || echo "No hay archivos Data"
 
       - name: Paso 7 - Subir archivos como artifacts
@@ -51,13 +49,42 @@ jobs:
         with:
           name: datos-mercadolibre-${{ github.run_number }}
           path: |
-            actividades/actividad1/static/csv/
-            actividades/actividad1/static/db/
-            actividades/actividad1/data/
+            actividades/actividad1/static/csv/*.csv
+            actividades/actividad1/data/*.json
+            actividades/actividad1/data/*.png
           retention-days: 30
 
-      - name: Paso 8 - Mostrar resumen
+      - name: Paso 8 - Commit archivos para Streamlit Cloud
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          
+          # Solo agregar archivos que existen
+          git add actividades/actividad1/static/csv/*.csv 2>/dev/null || true
+          git add actividades/actividad1/data/*.json 2>/dev/null || true
+          git add actividades/actividad1/data/*.png 2>/dev/null || true
+          
+          # Verificar si hay cambios
+          if git diff --staged --quiet; then
+            echo "No hay archivos nuevos para Streamlit Cloud"
+          else
+            git commit -m "🤖 Actualizar datos para Streamlit Cloud $(date '+%Y-%m-%d %H:%M:%S')"
+            git push
+            echo "✅ Datos enviados a Streamlit Cloud - Se actualizará automáticamente"
+          fi
+
+      - name: Paso 9 - Información de Streamlit Cloud
+        run: |
+          echo "🚀 Streamlit Cloud se actualizará automáticamente"
+          echo "🔗 URL de tu app: https://share.streamlit.io"
+          echo "📝 Asegúrate de que tu app esté configurada con:"
+          echo "   - Repository: ${{ github.repository }}"
+          echo "   - Branch: main"
+          echo "   - Main file: streamlit_app.py"
+
+      - name: Paso 10 - Mostrar resumen
         run: |
           echo "✅ Pipeline completado"
           echo "📁 Archivos disponibles en Artifacts"
           echo "🔗 Descarga desde: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          echo "🌐 Streamlit Cloud: https://share.streamlit.io"

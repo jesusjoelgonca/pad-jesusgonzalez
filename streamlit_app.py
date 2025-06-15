@@ -2,24 +2,28 @@ import streamlit as st
 import pandas as pd
 import os
 import json
+import sys
 from pathlib import Path
-import plotly.express as px
-import plotly.graph_objects as go
 
-# Detectar entorno automáticamente
-if os.path.exists("/workspaces"):
-    # Estamos en GitHub Codespaces
-    BASE_PATH = "/workspaces/pad-jesusgonzalez"
-elif os.path.exists("/app"):
-    # Estamos en Docker
-    BASE_PATH = "/app"
-else:
-    # Desarrollo local
-    BASE_PATH = os.getcwd()
+# Agregar el directorio src al path para importaciones
+current_dir = os.path.dirname(os.path.abspath(__file__))
+src_path = os.path.join(current_dir, 'actividades', 'actividad1', 'src')
+sys.path.append(src_path)
 
-csv_path = f"{BASE_PATH}/actividades/actividad1/static/csv/data_extractor.csv"
-data_dir = f"{BASE_PATH}/actividades/actividad1/data"
-db_dir = f"{BASE_PATH}/actividades/actividad1/static/db"
+try:
+    import plotly.express as px
+    import plotly.graph_objects as go
+    HAS_PLOTLY = True
+except ImportError:
+    HAS_PLOTLY = False
+    st.warning("⚠️ Plotly no está disponible. Instala con: pip install plotly")
+
+# Para Streamlit Cloud, usar rutas relativas desde la raíz
+BASE_PATH = os.path.dirname(os.path.abspath(__file__))
+
+csv_path = os.path.join(BASE_PATH, "actividades", "actividad1", "static", "csv", "data_extractor.csv")
+data_dir = os.path.join(BASE_PATH, "actividades", "actividad1", "data")
+db_dir = os.path.join(BASE_PATH, "actividades", "actividad1", "static", "db")
 
 st.set_page_config(
     page_title="📊 MercadoLibre Analytics",
@@ -35,10 +39,12 @@ st.markdown("### Dashboard de datos extraídos automáticamente")
 # Sidebar con información
 with st.sidebar:
     st.markdown("## 📋 Información del Sistema")
-    st.info(f"**Entorno:** {'Docker' if os.path.exists('/app') else 'Codespaces' if os.path.exists('/workspaces') else 'Local'}")
+    entorno = "Streamlit Cloud"
+    st.info(f"**Entorno:** {entorno}")
     
     # Botón de actualización manual
     if st.button("🔄 Verificar Nuevos Datos"):
+        st.cache_data.clear()
         st.rerun()
     
     # Estado de archivos
@@ -198,7 +204,7 @@ if df is not None and len(df) > 0:
     with tab2:
         st.subheader("📊 Análisis de Datos")
         
-        if 'precio_numerico' in df.columns:
+        if 'precio_numerico' in df.columns and HAS_PLOTLY:
             col1, col2 = st.columns(2)
             
             with col1:
@@ -218,6 +224,8 @@ if df is not None and len(df) > 0:
                         title="Precios por Método de Extracción"
                     )
                     st.plotly_chart(fig_box, use_container_width=True)
+        elif not HAS_PLOTLY:
+            st.info("📊 Para ver gráficos interactivos, instala plotly")
         
         # Estadísticas descriptivas
         if 'precio_numerico' in df.columns:
@@ -335,27 +343,29 @@ else:
     2. **Se ejecuta manualmente** el workflow
     3. **Programación automática** (si está configurada)
     
-    ### 📋 Para generar datos manualmente:
-    
-    ```bash
-    # En terminal local o Codespaces
-    python actividades/actividad1/src/main_extracto.py
-    ```
+    ### 📋 Estado actual de archivos:
     """)
     
-    # Información de debug
-    with st.expander("🔧 Información de Debug"):
+    # Mostrar información de debug
+    col1, col2 = st.columns(2)
+    
+    with col1:
+        st.write("**Rutas del sistema:**")
         st.code(f"""
-Entorno: {'Docker' if os.path.exists('/app') else 'Codespaces' if os.path.exists('/workspaces') else 'Local'}
-Base Path: {BASE_PATH}
 CSV Path: {csv_path}
-CSV Existe: {os.path.exists(csv_path)}
 Data Dir: {data_dir}
-Data Dir Existe: {os.path.exists(data_dir)}
-
-Archivos en data dir:
-{os.listdir(data_dir) if os.path.exists(data_dir) else 'Directorio no existe'}
+DB Dir: {db_dir}
         """)
+    
+    with col2:
+        st.write("**Estado de directorios:**")
+        st.write(f"📁 CSV existe: {os.path.exists(csv_path)}")
+        st.write(f"📁 Data dir existe: {os.path.exists(data_dir)}")
+        st.write(f"📁 DB dir existe: {os.path.exists(db_dir)}")
+        
+        if os.path.exists(data_dir):
+            archivos = os.listdir(data_dir)[:10]  # Primeros 10
+            st.write(f"📄 Archivos en data: {archivos}")
 
 # Footer
 st.markdown("---")
